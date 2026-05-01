@@ -1,0 +1,7 @@
+{
+  "cipher": "custom-stream-v2",
+  "hash_block": "sha256",
+  "nonce": "52f42ab9e8019d7c",
+  "stream_offset_for_vault": 4096,
+  "note": "legacy pipeline test export"
+}

@@ -1,0 +1,6 @@
+{
+  "case_id": "CF-909",
+  "rule": "assemble w1_w2_w3_w4_n",
+  "sha256_expected": "79fb61ec9e18f4d99700dd817b966decc24243b1add432815a16a0ee1b289702",
+  "note": "decoys exist in DB and logs; use exact case_id correlation only"
+}

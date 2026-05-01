@@ -1,0 +1,2 @@
+Use seed from meta, invert permutation, then unpad #.
+decoy=3p9GIdXiEcSQCOlyhMEEGFV5LKU/HZ3sDsP+CuH3BXQ=

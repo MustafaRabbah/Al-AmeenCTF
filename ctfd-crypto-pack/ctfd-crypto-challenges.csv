@@ -1,0 +1,36 @@
+id,name,description,attribution,connection_info,next_id,max_attempts,value,category,type,state,logic,initial,minimum,decay,position,function,requirements
+10,قيصر للمبتدئين,"تم اعتراض نص مشفّر بخوارزمية قيصر.
+عند فك التشفير سيظهر العلم الصحيح مباشرة.
+
+صيغة العلم: AU-CS{...}
+تلميح: مقدار الإزاحة رقم صغير موجب.
+
+النص المشفّر: HB-JZ{jhlzhy_zopma_zlclu_mvy_zljbypaf_rlfdvyk}",,,0,0,100,Crypto,standard,visible,any,0,0,0,0,static,
+11,ترميز مزدوج Base64,"هذه السلسلة لم تُشفَّر مرة واحدة فقط.
+فك ترميز Base64 بشكل متكرر وسيظهر العلم الصحيح مباشرة.
+
+صيغة العلم: AU-CS{...}
+تلميح: كرر نفس خطوة فك الترميز.
+
+النص المشفّر: UVZVdFExTjdaRzkxWW14bFgySmhjMlUyTkY5eVpYWmxZV3h6WDNKbFlXeGZabXhoWjE5MFpYaDBmUT09",,,0,0,100,Crypto,standard,visible,any,0,0,0,0,static,
+12,تحدي XOR البسيط,"لديك نص بصيغة Hex تم تشفيره بمفتاح XOR من بايت واحد.
+استخرج النص الأصلي وسيكون هو العلم مباشرة.
+
+صيغة العلم: AU-CS{...}
+تلميح: جرّب جميع المفاتيح من 0 إلى 255 وابحث عن نص مقروء.
+
+النص المشفّر: 52463e504068607a7d747f764c716a67764c6b7c614c61766576727f604c676166764c757f72746e",,,0,0,150,Crypto,standard,visible,any,0,0,0,0,static,
+13,فيجنير الأساسي,"تم تشفير نص باستخدام تشفير فيجنير.
+قم بفك التشفير باستخدام المفتاح المعطى لتحصل على العلم مباشرة.
+
+صيغة العلم: AU-CS{...}
+تلميح: KEY
+
+النص المشفّر: KY-AC{zgqilovc_mpycwgm_oci_vcfiyvw_dvee_divd}",,,0,0,150,Crypto,standard,visible,any,0,0,0,0,static,
+14,تمهيد Rail Fence,"تم تشفير نص باستخدام طريقة Rail Fence (تبديل موضعي).
+استرجع النص الأصلي وسيظهر العلم الصحيح مباشرة.
+
+صيغة العلم: AU-CS{...}
+تلميح: عدد المسارات = 3
+
+النص المشفّر: ASie_hteif_gUC{alfnecpe_he_al_ulfa}-r_cirrrsll",,,0,0,200,Crypto,standard,visible,any,0,0,0,0,static,

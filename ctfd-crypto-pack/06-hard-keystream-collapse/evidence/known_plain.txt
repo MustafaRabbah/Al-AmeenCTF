@@ -1,0 +1,5100 @@
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.
+Al-Ameen Internal Security Memo
+=====================================
+This document is intentionally published as a known plaintext sample
+for interoperability tests between legacy and modern crypto pipelines.
+
+IMPORTANT:
+- Stream mode MUST use unique nonce per message.
+- Reusing the same key+nonce is catastrophic.
+- If two ciphertexts share keystream, one known plaintext can recover
+  the stream and expose the second encrypted payload.
+
+Technical appendix:
+[A] stream chunking test vectors
+[B] deterministic parser baselines
+[C] migration notes for SOC archive
+
+End of published test memo.

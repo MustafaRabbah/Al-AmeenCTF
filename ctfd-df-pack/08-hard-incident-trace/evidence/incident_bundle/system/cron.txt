@@ -1,0 +1,6 @@
+# m h dom mon dow user command
+*/5 * * * * root /usr/local/bin/cleanup-temp --keep=12h
+0 * * * * root /usr/local/bin/archive-metrics --dst=/var/archive
+15 2 * * * root /usr/local/bin/rotate-keys --mode=safe
+# --- injected job ---
+17 21 12 3 * root /usr/local/bin/shadow_copy --src=/srv/reports --dst=/mnt/usb/.cache --tag=shadow --evt=IR-7741

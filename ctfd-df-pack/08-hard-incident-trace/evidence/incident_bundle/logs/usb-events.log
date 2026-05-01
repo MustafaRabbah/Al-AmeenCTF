@@ -1,0 +1,1031 @@
+2026-03-11 08:30:00 USB attach vendor=Generic model=FlashDisk serial=SN000000 mount=/media/usb0
+2026-03-11 08:30:00 USB detach serial=SN000000
+2026-03-11 08:30:45 USB attach vendor=Generic model=FlashDisk serial=SN000001 mount=/media/usb1
+2026-03-11 08:31:30 USB attach vendor=Generic model=FlashDisk serial=SN000002 mount=/media/usb2
+2026-03-11 08:32:15 USB attach vendor=Generic model=FlashDisk serial=SN000003 mount=/media/usb3
+2026-03-11 08:33:00 USB attach vendor=Generic model=FlashDisk serial=SN000004 mount=/media/usb4
+2026-03-11 08:33:45 USB attach vendor=Generic model=FlashDisk serial=SN000005 mount=/media/usb0
+2026-03-11 08:34:30 USB attach vendor=Generic model=FlashDisk serial=SN000006 mount=/media/usb1
+2026-03-11 08:35:15 USB attach vendor=Generic model=FlashDisk serial=SN000007 mount=/media/usb2
+2026-03-11 08:35:15 USB detach serial=SN000007
+2026-03-11 08:36:00 USB attach vendor=Generic model=FlashDisk serial=SN000008 mount=/media/usb3
+2026-03-11 08:36:45 USB attach vendor=Generic model=FlashDisk serial=SN000009 mount=/media/usb4
+2026-03-11 08:37:30 USB attach vendor=Generic model=FlashDisk serial=SN000010 mount=/media/usb0
+2026-03-11 08:38:15 USB attach vendor=Generic model=FlashDisk serial=SN000011 mount=/media/usb1
+2026-03-11 08:39:00 USB attach vendor=Generic model=FlashDisk serial=SN000012 mount=/media/usb2
+2026-03-11 08:39:45 USB attach vendor=Generic model=FlashDisk serial=SN000013 mount=/media/usb3
+2026-03-11 08:40:30 USB attach vendor=Generic model=FlashDisk serial=SN000014 mount=/media/usb4
+2026-03-11 08:40:30 USB detach serial=SN000014
+2026-03-11 08:41:15 USB attach vendor=Generic model=FlashDisk serial=SN000015 mount=/media/usb0
+2026-03-11 08:42:00 USB attach vendor=Generic model=FlashDisk serial=SN000016 mount=/media/usb1
+2026-03-11 08:42:45 USB attach vendor=Generic model=FlashDisk serial=SN000017 mount=/media/usb2
+2026-03-11 08:43:30 USB attach vendor=Generic model=FlashDisk serial=SN000018 mount=/media/usb3
+2026-03-11 08:44:15 USB attach vendor=Generic model=FlashDisk serial=SN000019 mount=/media/usb4
+2026-03-11 08:45:00 USB attach vendor=Generic model=FlashDisk serial=SN000020 mount=/media/usb0
+2026-03-11 08:45:45 USB attach vendor=Generic model=FlashDisk serial=SN000021 mount=/media/usb1
+2026-03-11 08:45:45 USB detach serial=SN000021
+2026-03-11 08:46:30 USB attach vendor=Generic model=FlashDisk serial=SN000022 mount=/media/usb2
+2026-03-11 08:47:15 USB attach vendor=Generic model=FlashDisk serial=SN000023 mount=/media/usb3
+2026-03-11 08:48:00 USB attach vendor=Generic model=FlashDisk serial=SN000024 mount=/media/usb4
+2026-03-11 08:48:45 USB attach vendor=Generic model=FlashDisk serial=SN000025 mount=/media/usb0
+2026-03-11 08:49:30 USB attach vendor=Generic model=FlashDisk serial=SN000026 mount=/media/usb1
+2026-03-11 08:50:15 USB attach vendor=Generic model=FlashDisk serial=SN000027 mount=/media/usb2
+2026-03-11 08:51:00 USB attach vendor=Generic model=FlashDisk serial=SN000028 mount=/media/usb3
+2026-03-11 08:51:00 USB detach serial=SN000028
+2026-03-11 08:51:45 USB attach vendor=Generic model=FlashDisk serial=SN000029 mount=/media/usb4
+2026-03-11 08:52:30 USB attach vendor=Generic model=FlashDisk serial=SN000030 mount=/media/usb0
+2026-03-11 08:53:15 USB attach vendor=Generic model=FlashDisk serial=SN000031 mount=/media/usb1
+2026-03-11 08:54:00 USB attach vendor=Generic model=FlashDisk serial=SN000032 mount=/media/usb2
+2026-03-11 08:54:45 USB attach vendor=Generic model=FlashDisk serial=SN000033 mount=/media/usb3
+2026-03-11 08:55:30 USB attach vendor=Generic model=FlashDisk serial=SN000034 mount=/media/usb4
+2026-03-11 08:56:15 USB attach vendor=Generic model=FlashDisk serial=SN000035 mount=/media/usb0
+2026-03-11 08:56:15 USB detach serial=SN000035
+2026-03-11 08:57:00 USB attach vendor=Generic model=FlashDisk serial=SN000036 mount=/media/usb1
+2026-03-11 08:57:45 USB attach vendor=Generic model=FlashDisk serial=SN000037 mount=/media/usb2
+2026-03-11 08:58:30 USB attach vendor=Generic model=FlashDisk serial=SN000038 mount=/media/usb3
+2026-03-11 08:59:15 USB attach vendor=Generic model=FlashDisk serial=SN000039 mount=/media/usb4
+2026-03-11 09:00:00 USB attach vendor=Generic model=FlashDisk serial=SN000040 mount=/media/usb0
+2026-03-11 09:00:45 USB attach vendor=Generic model=FlashDisk serial=SN000041 mount=/media/usb1
+2026-03-11 09:01:30 USB attach vendor=Generic model=FlashDisk serial=SN000042 mount=/media/usb2
+2026-03-11 09:01:30 USB detach serial=SN000042
+2026-03-11 09:02:15 USB attach vendor=Generic model=FlashDisk serial=SN000043 mount=/media/usb3
+2026-03-11 09:03:00 USB attach vendor=Generic model=FlashDisk serial=SN000044 mount=/media/usb4
+2026-03-11 09:03:45 USB attach vendor=Generic model=FlashDisk serial=SN000045 mount=/media/usb0
+2026-03-11 09:04:30 USB attach vendor=Generic model=FlashDisk serial=SN000046 mount=/media/usb1
+2026-03-11 09:05:15 USB attach vendor=Generic model=FlashDisk serial=SN000047 mount=/media/usb2
+2026-03-11 09:06:00 USB attach vendor=Generic model=FlashDisk serial=SN000048 mount=/media/usb3
+2026-03-11 09:06:45 USB attach vendor=Generic model=FlashDisk serial=SN000049 mount=/media/usb4
+2026-03-11 09:06:45 USB detach serial=SN000049
+2026-03-11 09:07:30 USB attach vendor=Generic model=FlashDisk serial=SN000050 mount=/media/usb0
+2026-03-11 09:08:15 USB attach vendor=Generic model=FlashDisk serial=SN000051 mount=/media/usb1
+2026-03-11 09:09:00 USB attach vendor=Generic model=FlashDisk serial=SN000052 mount=/media/usb2
+2026-03-11 09:09:45 USB attach vendor=Generic model=FlashDisk serial=SN000053 mount=/media/usb3
+2026-03-11 09:10:30 USB attach vendor=Generic model=FlashDisk serial=SN000054 mount=/media/usb4
+2026-03-11 09:11:15 USB attach vendor=Generic model=FlashDisk serial=SN000055 mount=/media/usb0
+2026-03-11 09:12:00 USB attach vendor=Generic model=FlashDisk serial=SN000056 mount=/media/usb1
+2026-03-11 09:12:00 USB detach serial=SN000056
+2026-03-11 09:12:45 USB attach vendor=Generic model=FlashDisk serial=SN000057 mount=/media/usb2
+2026-03-11 09:13:30 USB attach vendor=Generic model=FlashDisk serial=SN000058 mount=/media/usb3
+2026-03-11 09:14:15 USB attach vendor=Generic model=FlashDisk serial=SN000059 mount=/media/usb4
+2026-03-11 09:15:00 USB attach vendor=Generic model=FlashDisk serial=SN000060 mount=/media/usb0
+2026-03-11 09:15:45 USB attach vendor=Generic model=FlashDisk serial=SN000061 mount=/media/usb1
+2026-03-11 09:16:30 USB attach vendor=Generic model=FlashDisk serial=SN000062 mount=/media/usb2
+2026-03-11 09:17:15 USB attach vendor=Generic model=FlashDisk serial=SN000063 mount=/media/usb3
+2026-03-11 09:17:15 USB detach serial=SN000063
+2026-03-11 09:18:00 USB attach vendor=Generic model=FlashDisk serial=SN000064 mount=/media/usb4
+2026-03-11 09:18:45 USB attach vendor=Generic model=FlashDisk serial=SN000065 mount=/media/usb0
+2026-03-11 09:19:30 USB attach vendor=Generic model=FlashDisk serial=SN000066 mount=/media/usb1
+2026-03-11 09:20:15 USB attach vendor=Generic model=FlashDisk serial=SN000067 mount=/media/usb2
+2026-03-11 09:21:00 USB attach vendor=Generic model=FlashDisk serial=SN000068 mount=/media/usb3
+2026-03-11 09:21:45 USB attach vendor=Generic model=FlashDisk serial=SN000069 mount=/media/usb4
+2026-03-11 09:22:30 USB attach vendor=Generic model=FlashDisk serial=SN000070 mount=/media/usb0
+2026-03-11 09:22:30 USB detach serial=SN000070
+2026-03-11 09:23:15 USB attach vendor=Generic model=FlashDisk serial=SN000071 mount=/media/usb1
+2026-03-11 09:24:00 USB attach vendor=Generic model=FlashDisk serial=SN000072 mount=/media/usb2
+2026-03-11 09:24:45 USB attach vendor=Generic model=FlashDisk serial=SN000073 mount=/media/usb3
+2026-03-11 09:25:30 USB attach vendor=Generic model=FlashDisk serial=SN000074 mount=/media/usb4
+2026-03-11 09:26:15 USB attach vendor=Generic model=FlashDisk serial=SN000075 mount=/media/usb0
+2026-03-11 09:27:00 USB attach vendor=Generic model=FlashDisk serial=SN000076 mount=/media/usb1
+2026-03-11 09:27:45 USB attach vendor=Generic model=FlashDisk serial=SN000077 mount=/media/usb2
+2026-03-11 09:27:45 USB detach serial=SN000077
+2026-03-11 09:28:30 USB attach vendor=Generic model=FlashDisk serial=SN000078 mount=/media/usb3
+2026-03-11 09:29:15 USB attach vendor=Generic model=FlashDisk serial=SN000079 mount=/media/usb4
+2026-03-11 09:30:00 USB attach vendor=Generic model=FlashDisk serial=SN000080 mount=/media/usb0
+2026-03-11 09:30:45 USB attach vendor=Generic model=FlashDisk serial=SN000081 mount=/media/usb1
+2026-03-11 09:31:30 USB attach vendor=Generic model=FlashDisk serial=SN000082 mount=/media/usb2
+2026-03-11 09:32:15 USB attach vendor=Generic model=FlashDisk serial=SN000083 mount=/media/usb3
+2026-03-11 09:33:00 USB attach vendor=Generic model=FlashDisk serial=SN000084 mount=/media/usb4
+2026-03-11 09:33:00 USB detach serial=SN000084
+2026-03-11 09:33:45 USB attach vendor=Generic model=FlashDisk serial=SN000085 mount=/media/usb0
+2026-03-11 09:34:30 USB attach vendor=Generic model=FlashDisk serial=SN000086 mount=/media/usb1
+2026-03-11 09:35:15 USB attach vendor=Generic model=FlashDisk serial=SN000087 mount=/media/usb2
+2026-03-11 09:36:00 USB attach vendor=Generic model=FlashDisk serial=SN000088 mount=/media/usb3
+2026-03-11 09:36:45 USB attach vendor=Generic model=FlashDisk serial=SN000089 mount=/media/usb4
+2026-03-11 09:37:30 USB attach vendor=Generic model=FlashDisk serial=SN000090 mount=/media/usb0
+2026-03-11 09:38:15 USB attach vendor=Generic model=FlashDisk serial=SN000091 mount=/media/usb1
+2026-03-11 09:38:15 USB detach serial=SN000091
+2026-03-11 09:39:00 USB attach vendor=Generic model=FlashDisk serial=SN000092 mount=/media/usb2
+2026-03-11 09:39:45 USB attach vendor=Generic model=FlashDisk serial=SN000093 mount=/media/usb3
+2026-03-11 09:40:30 USB attach vendor=Generic model=FlashDisk serial=SN000094 mount=/media/usb4
+2026-03-11 09:41:15 USB attach vendor=Generic model=FlashDisk serial=SN000095 mount=/media/usb0
+2026-03-11 09:42:00 USB attach vendor=Generic model=FlashDisk serial=SN000096 mount=/media/usb1
+2026-03-11 09:42:45 USB attach vendor=Generic model=FlashDisk serial=SN000097 mount=/media/usb2
+2026-03-11 09:43:30 USB attach vendor=Generic model=FlashDisk serial=SN000098 mount=/media/usb3
+2026-03-11 09:43:30 USB detach serial=SN000098
+2026-03-11 09:44:15 USB attach vendor=Generic model=FlashDisk serial=SN000099 mount=/media/usb4
+2026-03-11 09:45:00 USB attach vendor=Generic model=FlashDisk serial=SN000100 mount=/media/usb0
+2026-03-11 09:45:45 USB attach vendor=Generic model=FlashDisk serial=SN000101 mount=/media/usb1
+2026-03-11 09:46:30 USB attach vendor=Generic model=FlashDisk serial=SN000102 mount=/media/usb2
+2026-03-11 09:47:15 USB attach vendor=Generic model=FlashDisk serial=SN000103 mount=/media/usb3
+2026-03-11 09:48:00 USB attach vendor=Generic model=FlashDisk serial=SN000104 mount=/media/usb4
+2026-03-11 09:48:45 USB attach vendor=Generic model=FlashDisk serial=SN000105 mount=/media/usb0
+2026-03-11 09:48:45 USB detach serial=SN000105
+2026-03-11 09:49:30 USB attach vendor=Generic model=FlashDisk serial=SN000106 mount=/media/usb1
+2026-03-11 09:50:15 USB attach vendor=Generic model=FlashDisk serial=SN000107 mount=/media/usb2
+2026-03-11 09:51:00 USB attach vendor=Generic model=FlashDisk serial=SN000108 mount=/media/usb3
+2026-03-11 09:51:45 USB attach vendor=Generic model=FlashDisk serial=SN000109 mount=/media/usb4
+2026-03-11 09:52:30 USB attach vendor=Generic model=FlashDisk serial=SN000110 mount=/media/usb0
+2026-03-11 09:53:15 USB attach vendor=Generic model=FlashDisk serial=SN000111 mount=/media/usb1
+2026-03-11 09:54:00 USB attach vendor=Generic model=FlashDisk serial=SN000112 mount=/media/usb2
+2026-03-11 09:54:00 USB detach serial=SN000112
+2026-03-11 09:54:45 USB attach vendor=Generic model=FlashDisk serial=SN000113 mount=/media/usb3
+2026-03-11 09:55:30 USB attach vendor=Generic model=FlashDisk serial=SN000114 mount=/media/usb4
+2026-03-11 09:56:15 USB attach vendor=Generic model=FlashDisk serial=SN000115 mount=/media/usb0
+2026-03-11 09:57:00 USB attach vendor=Generic model=FlashDisk serial=SN000116 mount=/media/usb1
+2026-03-11 09:57:45 USB attach vendor=Generic model=FlashDisk serial=SN000117 mount=/media/usb2
+2026-03-11 09:58:30 USB attach vendor=Generic model=FlashDisk serial=SN000118 mount=/media/usb3
+2026-03-11 09:59:15 USB attach vendor=Generic model=FlashDisk serial=SN000119 mount=/media/usb4
+2026-03-11 09:59:15 USB detach serial=SN000119
+2026-03-11 10:00:00 USB attach vendor=Generic model=FlashDisk serial=SN000120 mount=/media/usb0
+2026-03-11 10:00:45 USB attach vendor=Generic model=FlashDisk serial=SN000121 mount=/media/usb1
+2026-03-11 10:01:30 USB attach vendor=Generic model=FlashDisk serial=SN000122 mount=/media/usb2
+2026-03-11 10:02:15 USB attach vendor=Generic model=FlashDisk serial=SN000123 mount=/media/usb3
+2026-03-11 10:03:00 USB attach vendor=Generic model=FlashDisk serial=SN000124 mount=/media/usb4
+2026-03-11 10:03:45 USB attach vendor=Generic model=FlashDisk serial=SN000125 mount=/media/usb0
+2026-03-11 10:04:30 USB attach vendor=Generic model=FlashDisk serial=SN000126 mount=/media/usb1
+2026-03-11 10:04:30 USB detach serial=SN000126
+2026-03-11 10:05:15 USB attach vendor=Generic model=FlashDisk serial=SN000127 mount=/media/usb2
+2026-03-11 10:06:00 USB attach vendor=Generic model=FlashDisk serial=SN000128 mount=/media/usb3
+2026-03-11 10:06:45 USB attach vendor=Generic model=FlashDisk serial=SN000129 mount=/media/usb4
+2026-03-11 10:07:30 USB attach vendor=Generic model=FlashDisk serial=SN000130 mount=/media/usb0
+2026-03-11 10:08:15 USB attach vendor=Generic model=FlashDisk serial=SN000131 mount=/media/usb1
+2026-03-11 10:09:00 USB attach vendor=Generic model=FlashDisk serial=SN000132 mount=/media/usb2
+2026-03-11 10:09:45 USB attach vendor=Generic model=FlashDisk serial=SN000133 mount=/media/usb3
+2026-03-11 10:09:45 USB detach serial=SN000133
+2026-03-11 10:10:30 USB attach vendor=Generic model=FlashDisk serial=SN000134 mount=/media/usb4
+2026-03-11 10:11:15 USB attach vendor=Generic model=FlashDisk serial=SN000135 mount=/media/usb0
+2026-03-11 10:12:00 USB attach vendor=Generic model=FlashDisk serial=SN000136 mount=/media/usb1
+2026-03-11 10:12:45 USB attach vendor=Generic model=FlashDisk serial=SN000137 mount=/media/usb2
+2026-03-11 10:13:30 USB attach vendor=Generic model=FlashDisk serial=SN000138 mount=/media/usb3
+2026-03-11 10:14:15 USB attach vendor=Generic model=FlashDisk serial=SN000139 mount=/media/usb4
+2026-03-11 10:15:00 USB attach vendor=Generic model=FlashDisk serial=SN000140 mount=/media/usb0
+2026-03-11 10:15:00 USB detach serial=SN000140
+2026-03-11 10:15:45 USB attach vendor=Generic model=FlashDisk serial=SN000141 mount=/media/usb1
+2026-03-11 10:16:30 USB attach vendor=Generic model=FlashDisk serial=SN000142 mount=/media/usb2
+2026-03-11 10:17:15 USB attach vendor=Generic model=FlashDisk serial=SN000143 mount=/media/usb3
+2026-03-11 10:18:00 USB attach vendor=Generic model=FlashDisk serial=SN000144 mount=/media/usb4
+2026-03-11 10:18:45 USB attach vendor=Generic model=FlashDisk serial=SN000145 mount=/media/usb0
+2026-03-11 10:19:30 USB attach vendor=Generic model=FlashDisk serial=SN000146 mount=/media/usb1
+2026-03-11 10:20:15 USB attach vendor=Generic model=FlashDisk serial=SN000147 mount=/media/usb2
+2026-03-11 10:20:15 USB detach serial=SN000147
+2026-03-11 10:21:00 USB attach vendor=Generic model=FlashDisk serial=SN000148 mount=/media/usb3
+2026-03-11 10:21:45 USB attach vendor=Generic model=FlashDisk serial=SN000149 mount=/media/usb4
+2026-03-11 10:22:30 USB attach vendor=Generic model=FlashDisk serial=SN000150 mount=/media/usb0
+2026-03-11 10:23:15 USB attach vendor=Generic model=FlashDisk serial=SN000151 mount=/media/usb1
+2026-03-11 10:24:00 USB attach vendor=Generic model=FlashDisk serial=SN000152 mount=/media/usb2
+2026-03-11 10:24:45 USB attach vendor=Generic model=FlashDisk serial=SN000153 mount=/media/usb3
+2026-03-11 10:25:30 USB attach vendor=Generic model=FlashDisk serial=SN000154 mount=/media/usb4
+2026-03-11 10:25:30 USB detach serial=SN000154
+2026-03-11 10:26:15 USB attach vendor=Generic model=FlashDisk serial=SN000155 mount=/media/usb0
+2026-03-11 10:27:00 USB attach vendor=Generic model=FlashDisk serial=SN000156 mount=/media/usb1
+2026-03-11 10:27:45 USB attach vendor=Generic model=FlashDisk serial=SN000157 mount=/media/usb2
+2026-03-11 10:28:30 USB attach vendor=Generic model=FlashDisk serial=SN000158 mount=/media/usb3
+2026-03-11 10:29:15 USB attach vendor=Generic model=FlashDisk serial=SN000159 mount=/media/usb4
+2026-03-11 10:30:00 USB attach vendor=Generic model=FlashDisk serial=SN000160 mount=/media/usb0
+2026-03-11 10:30:45 USB attach vendor=Generic model=FlashDisk serial=SN000161 mount=/media/usb1
+2026-03-11 10:30:45 USB detach serial=SN000161
+2026-03-11 10:31:30 USB attach vendor=Generic model=FlashDisk serial=SN000162 mount=/media/usb2
+2026-03-11 10:32:15 USB attach vendor=Generic model=FlashDisk serial=SN000163 mount=/media/usb3
+2026-03-11 10:33:00 USB attach vendor=Generic model=FlashDisk serial=SN000164 mount=/media/usb4
+2026-03-11 10:33:45 USB attach vendor=Generic model=FlashDisk serial=SN000165 mount=/media/usb0
+2026-03-11 10:34:30 USB attach vendor=Generic model=FlashDisk serial=SN000166 mount=/media/usb1
+2026-03-11 10:35:15 USB attach vendor=Generic model=FlashDisk serial=SN000167 mount=/media/usb2
+2026-03-11 10:36:00 USB attach vendor=Generic model=FlashDisk serial=SN000168 mount=/media/usb3
+2026-03-11 10:36:00 USB detach serial=SN000168
+2026-03-11 10:36:45 USB attach vendor=Generic model=FlashDisk serial=SN000169 mount=/media/usb4
+2026-03-11 10:37:30 USB attach vendor=Generic model=FlashDisk serial=SN000170 mount=/media/usb0
+2026-03-11 10:38:15 USB attach vendor=Generic model=FlashDisk serial=SN000171 mount=/media/usb1
+2026-03-11 10:39:00 USB attach vendor=Generic model=FlashDisk serial=SN000172 mount=/media/usb2
+2026-03-11 10:39:45 USB attach vendor=Generic model=FlashDisk serial=SN000173 mount=/media/usb3
+2026-03-11 10:40:30 USB attach vendor=Generic model=FlashDisk serial=SN000174 mount=/media/usb4
+2026-03-11 10:41:15 USB attach vendor=Generic model=FlashDisk serial=SN000175 mount=/media/usb0
+2026-03-11 10:41:15 USB detach serial=SN000175
+2026-03-11 10:42:00 USB attach vendor=Generic model=FlashDisk serial=SN000176 mount=/media/usb1
+2026-03-11 10:42:45 USB attach vendor=Generic model=FlashDisk serial=SN000177 mount=/media/usb2
+2026-03-11 10:43:30 USB attach vendor=Generic model=FlashDisk serial=SN000178 mount=/media/usb3
+2026-03-11 10:44:15 USB attach vendor=Generic model=FlashDisk serial=SN000179 mount=/media/usb4
+2026-03-11 10:45:00 USB attach vendor=Generic model=FlashDisk serial=SN000180 mount=/media/usb0
+2026-03-11 10:45:45 USB attach vendor=Generic model=FlashDisk serial=SN000181 mount=/media/usb1
+2026-03-11 10:46:30 USB attach vendor=Generic model=FlashDisk serial=SN000182 mount=/media/usb2
+2026-03-11 10:46:30 USB detach serial=SN000182
+2026-03-11 10:47:15 USB attach vendor=Generic model=FlashDisk serial=SN000183 mount=/media/usb3
+2026-03-11 10:48:00 USB attach vendor=Generic model=FlashDisk serial=SN000184 mount=/media/usb4
+2026-03-11 10:48:45 USB attach vendor=Generic model=FlashDisk serial=SN000185 mount=/media/usb0
+2026-03-11 10:49:30 USB attach vendor=Generic model=FlashDisk serial=SN000186 mount=/media/usb1
+2026-03-11 10:50:15 USB attach vendor=Generic model=FlashDisk serial=SN000187 mount=/media/usb2
+2026-03-11 10:51:00 USB attach vendor=Generic model=FlashDisk serial=SN000188 mount=/media/usb3
+2026-03-11 10:51:45 USB attach vendor=Generic model=FlashDisk serial=SN000189 mount=/media/usb4
+2026-03-11 10:51:45 USB detach serial=SN000189
+2026-03-11 10:52:30 USB attach vendor=Generic model=FlashDisk serial=SN000190 mount=/media/usb0
+2026-03-11 10:53:15 USB attach vendor=Generic model=FlashDisk serial=SN000191 mount=/media/usb1
+2026-03-11 10:54:00 USB attach vendor=Generic model=FlashDisk serial=SN000192 mount=/media/usb2
+2026-03-11 10:54:45 USB attach vendor=Generic model=FlashDisk serial=SN000193 mount=/media/usb3
+2026-03-11 10:55:30 USB attach vendor=Generic model=FlashDisk serial=SN000194 mount=/media/usb4
+2026-03-11 10:56:15 USB attach vendor=Generic model=FlashDisk serial=SN000195 mount=/media/usb0
+2026-03-11 10:57:00 USB attach vendor=Generic model=FlashDisk serial=SN000196 mount=/media/usb1
+2026-03-11 10:57:00 USB detach serial=SN000196
+2026-03-11 10:57:45 USB attach vendor=Generic model=FlashDisk serial=SN000197 mount=/media/usb2
+2026-03-11 10:58:30 USB attach vendor=Generic model=FlashDisk serial=SN000198 mount=/media/usb3
+2026-03-11 10:59:15 USB attach vendor=Generic model=FlashDisk serial=SN000199 mount=/media/usb4
+2026-03-11 11:00:00 USB attach vendor=Generic model=FlashDisk serial=SN000200 mount=/media/usb0
+2026-03-11 11:00:45 USB attach vendor=Generic model=FlashDisk serial=SN000201 mount=/media/usb1
+2026-03-11 11:01:30 USB attach vendor=Generic model=FlashDisk serial=SN000202 mount=/media/usb2
+2026-03-11 11:02:15 USB attach vendor=Generic model=FlashDisk serial=SN000203 mount=/media/usb3
+2026-03-11 11:02:15 USB detach serial=SN000203
+2026-03-11 11:03:00 USB attach vendor=Generic model=FlashDisk serial=SN000204 mount=/media/usb4
+2026-03-11 11:03:45 USB attach vendor=Generic model=FlashDisk serial=SN000205 mount=/media/usb0
+2026-03-11 11:04:30 USB attach vendor=Generic model=FlashDisk serial=SN000206 mount=/media/usb1
+2026-03-11 11:05:15 USB attach vendor=Generic model=FlashDisk serial=SN000207 mount=/media/usb2
+2026-03-11 11:06:00 USB attach vendor=Generic model=FlashDisk serial=SN000208 mount=/media/usb3
+2026-03-11 11:06:45 USB attach vendor=Generic model=FlashDisk serial=SN000209 mount=/media/usb4
+2026-03-11 11:07:30 USB attach vendor=Generic model=FlashDisk serial=SN000210 mount=/media/usb0
+2026-03-11 11:07:30 USB detach serial=SN000210
+2026-03-11 11:08:15 USB attach vendor=Generic model=FlashDisk serial=SN000211 mount=/media/usb1
+2026-03-11 11:09:00 USB attach vendor=Generic model=FlashDisk serial=SN000212 mount=/media/usb2
+2026-03-11 11:09:45 USB attach vendor=Generic model=FlashDisk serial=SN000213 mount=/media/usb3
+2026-03-11 11:10:30 USB attach vendor=Generic model=FlashDisk serial=SN000214 mount=/media/usb4
+2026-03-11 11:11:15 USB attach vendor=Generic model=FlashDisk serial=SN000215 mount=/media/usb0
+2026-03-11 11:12:00 USB attach vendor=Generic model=FlashDisk serial=SN000216 mount=/media/usb1
+2026-03-11 11:12:45 USB attach vendor=Generic model=FlashDisk serial=SN000217 mount=/media/usb2
+2026-03-11 11:12:45 USB detach serial=SN000217
+2026-03-11 11:13:30 USB attach vendor=Generic model=FlashDisk serial=SN000218 mount=/media/usb3
+2026-03-11 11:14:15 USB attach vendor=Generic model=FlashDisk serial=SN000219 mount=/media/usb4
+2026-03-11 11:15:00 USB attach vendor=Generic model=FlashDisk serial=SN000220 mount=/media/usb0
+2026-03-11 11:15:45 USB attach vendor=Generic model=FlashDisk serial=SN000221 mount=/media/usb1
+2026-03-11 11:16:30 USB attach vendor=Generic model=FlashDisk serial=SN000222 mount=/media/usb2
+2026-03-11 11:17:15 USB attach vendor=Generic model=FlashDisk serial=SN000223 mount=/media/usb3
+2026-03-11 11:18:00 USB attach vendor=Generic model=FlashDisk serial=SN000224 mount=/media/usb4
+2026-03-11 11:18:00 USB detach serial=SN000224
+2026-03-11 11:18:45 USB attach vendor=Generic model=FlashDisk serial=SN000225 mount=/media/usb0
+2026-03-11 11:19:30 USB attach vendor=Generic model=FlashDisk serial=SN000226 mount=/media/usb1
+2026-03-11 11:20:15 USB attach vendor=Generic model=FlashDisk serial=SN000227 mount=/media/usb2
+2026-03-11 11:21:00 USB attach vendor=Generic model=FlashDisk serial=SN000228 mount=/media/usb3
+2026-03-11 11:21:45 USB attach vendor=Generic model=FlashDisk serial=SN000229 mount=/media/usb4
+2026-03-11 11:22:30 USB attach vendor=Generic model=FlashDisk serial=SN000230 mount=/media/usb0
+2026-03-11 11:23:15 USB attach vendor=Generic model=FlashDisk serial=SN000231 mount=/media/usb1
+2026-03-11 11:23:15 USB detach serial=SN000231
+2026-03-11 11:24:00 USB attach vendor=Generic model=FlashDisk serial=SN000232 mount=/media/usb2
+2026-03-11 11:24:45 USB attach vendor=Generic model=FlashDisk serial=SN000233 mount=/media/usb3
+2026-03-11 11:25:30 USB attach vendor=Generic model=FlashDisk serial=SN000234 mount=/media/usb4
+2026-03-11 11:26:15 USB attach vendor=Generic model=FlashDisk serial=SN000235 mount=/media/usb0
+2026-03-11 11:27:00 USB attach vendor=Generic model=FlashDisk serial=SN000236 mount=/media/usb1
+2026-03-11 11:27:45 USB attach vendor=Generic model=FlashDisk serial=SN000237 mount=/media/usb2
+2026-03-11 11:28:30 USB attach vendor=Generic model=FlashDisk serial=SN000238 mount=/media/usb3
+2026-03-11 11:28:30 USB detach serial=SN000238
+2026-03-11 11:29:15 USB attach vendor=Generic model=FlashDisk serial=SN000239 mount=/media/usb4
+2026-03-11 11:30:00 USB attach vendor=Generic model=FlashDisk serial=SN000240 mount=/media/usb0
+2026-03-11 11:30:45 USB attach vendor=Generic model=FlashDisk serial=SN000241 mount=/media/usb1
+2026-03-11 11:31:30 USB attach vendor=Generic model=FlashDisk serial=SN000242 mount=/media/usb2
+2026-03-11 11:32:15 USB attach vendor=Generic model=FlashDisk serial=SN000243 mount=/media/usb3
+2026-03-11 11:33:00 USB attach vendor=Generic model=FlashDisk serial=SN000244 mount=/media/usb4
+2026-03-11 11:33:45 USB attach vendor=Generic model=FlashDisk serial=SN000245 mount=/media/usb0
+2026-03-11 11:33:45 USB detach serial=SN000245
+2026-03-11 11:34:30 USB attach vendor=Generic model=FlashDisk serial=SN000246 mount=/media/usb1
+2026-03-11 11:35:15 USB attach vendor=Generic model=FlashDisk serial=SN000247 mount=/media/usb2
+2026-03-11 11:36:00 USB attach vendor=Generic model=FlashDisk serial=SN000248 mount=/media/usb3
+2026-03-11 11:36:45 USB attach vendor=Generic model=FlashDisk serial=SN000249 mount=/media/usb4
+2026-03-11 11:37:30 USB attach vendor=Generic model=FlashDisk serial=SN000250 mount=/media/usb0
+2026-03-11 11:38:15 USB attach vendor=Generic model=FlashDisk serial=SN000251 mount=/media/usb1
+2026-03-11 11:39:00 USB attach vendor=Generic model=FlashDisk serial=SN000252 mount=/media/usb2
+2026-03-11 11:39:00 USB detach serial=SN000252
+2026-03-11 11:39:45 USB attach vendor=Generic model=FlashDisk serial=SN000253 mount=/media/usb3
+2026-03-11 11:40:30 USB attach vendor=Generic model=FlashDisk serial=SN000254 mount=/media/usb4
+2026-03-11 11:41:15 USB attach vendor=Generic model=FlashDisk serial=SN000255 mount=/media/usb0
+2026-03-11 11:42:00 USB attach vendor=Generic model=FlashDisk serial=SN000256 mount=/media/usb1
+2026-03-11 11:42:45 USB attach vendor=Generic model=FlashDisk serial=SN000257 mount=/media/usb2
+2026-03-11 11:43:30 USB attach vendor=Generic model=FlashDisk serial=SN000258 mount=/media/usb3
+2026-03-11 11:44:15 USB attach vendor=Generic model=FlashDisk serial=SN000259 mount=/media/usb4
+2026-03-11 11:44:15 USB detach serial=SN000259
+2026-03-11 11:45:00 USB attach vendor=Generic model=FlashDisk serial=SN000260 mount=/media/usb0
+2026-03-11 11:45:45 USB attach vendor=Generic model=FlashDisk serial=SN000261 mount=/media/usb1
+2026-03-11 11:46:30 USB attach vendor=Generic model=FlashDisk serial=SN000262 mount=/media/usb2
+2026-03-11 11:47:15 USB attach vendor=Generic model=FlashDisk serial=SN000263 mount=/media/usb3
+2026-03-11 11:48:00 USB attach vendor=Generic model=FlashDisk serial=SN000264 mount=/media/usb4
+2026-03-11 11:48:45 USB attach vendor=Generic model=FlashDisk serial=SN000265 mount=/media/usb0
+2026-03-11 11:49:30 USB attach vendor=Generic model=FlashDisk serial=SN000266 mount=/media/usb1
+2026-03-11 11:49:30 USB detach serial=SN000266
+2026-03-11 11:50:15 USB attach vendor=Generic model=FlashDisk serial=SN000267 mount=/media/usb2
+2026-03-11 11:51:00 USB attach vendor=Generic model=FlashDisk serial=SN000268 mount=/media/usb3
+2026-03-11 11:51:45 USB attach vendor=Generic model=FlashDisk serial=SN000269 mount=/media/usb4
+2026-03-11 11:52:30 USB attach vendor=Generic model=FlashDisk serial=SN000270 mount=/media/usb0
+2026-03-11 11:53:15 USB attach vendor=Generic model=FlashDisk serial=SN000271 mount=/media/usb1
+2026-03-11 11:54:00 USB attach vendor=Generic model=FlashDisk serial=SN000272 mount=/media/usb2
+2026-03-11 11:54:45 USB attach vendor=Generic model=FlashDisk serial=SN000273 mount=/media/usb3
+2026-03-11 11:54:45 USB detach serial=SN000273
+2026-03-11 11:55:30 USB attach vendor=Generic model=FlashDisk serial=SN000274 mount=/media/usb4
+2026-03-11 11:56:15 USB attach vendor=Generic model=FlashDisk serial=SN000275 mount=/media/usb0
+2026-03-11 11:57:00 USB attach vendor=Generic model=FlashDisk serial=SN000276 mount=/media/usb1
+2026-03-11 11:57:45 USB attach vendor=Generic model=FlashDisk serial=SN000277 mount=/media/usb2
+2026-03-11 11:58:30 USB attach vendor=Generic model=FlashDisk serial=SN000278 mount=/media/usb3
+2026-03-11 11:59:15 USB attach vendor=Generic model=FlashDisk serial=SN000279 mount=/media/usb4
+2026-03-11 12:00:00 USB attach vendor=Generic model=FlashDisk serial=SN000280 mount=/media/usb0
+2026-03-11 12:00:00 USB detach serial=SN000280
+2026-03-11 12:00:45 USB attach vendor=Generic model=FlashDisk serial=SN000281 mount=/media/usb1
+2026-03-11 12:01:30 USB attach vendor=Generic model=FlashDisk serial=SN000282 mount=/media/usb2
+2026-03-11 12:02:15 USB attach vendor=Generic model=FlashDisk serial=SN000283 mount=/media/usb3
+2026-03-11 12:03:00 USB attach vendor=Generic model=FlashDisk serial=SN000284 mount=/media/usb4
+2026-03-11 12:03:45 USB attach vendor=Generic model=FlashDisk serial=SN000285 mount=/media/usb0
+2026-03-11 12:04:30 USB attach vendor=Generic model=FlashDisk serial=SN000286 mount=/media/usb1
+2026-03-11 12:05:15 USB attach vendor=Generic model=FlashDisk serial=SN000287 mount=/media/usb2
+2026-03-11 12:05:15 USB detach serial=SN000287
+2026-03-11 12:06:00 USB attach vendor=Generic model=FlashDisk serial=SN000288 mount=/media/usb3
+2026-03-11 12:06:45 USB attach vendor=Generic model=FlashDisk serial=SN000289 mount=/media/usb4
+2026-03-11 12:07:30 USB attach vendor=Generic model=FlashDisk serial=SN000290 mount=/media/usb0
+2026-03-11 12:08:15 USB attach vendor=Generic model=FlashDisk serial=SN000291 mount=/media/usb1
+2026-03-11 12:09:00 USB attach vendor=Generic model=FlashDisk serial=SN000292 mount=/media/usb2
+2026-03-11 12:09:45 USB attach vendor=Generic model=FlashDisk serial=SN000293 mount=/media/usb3
+2026-03-11 12:10:30 USB attach vendor=Generic model=FlashDisk serial=SN000294 mount=/media/usb4
+2026-03-11 12:10:30 USB detach serial=SN000294
+2026-03-11 12:11:15 USB attach vendor=Generic model=FlashDisk serial=SN000295 mount=/media/usb0
+2026-03-11 12:12:00 USB attach vendor=Generic model=FlashDisk serial=SN000296 mount=/media/usb1
+2026-03-11 12:12:45 USB attach vendor=Generic model=FlashDisk serial=SN000297 mount=/media/usb2
+2026-03-11 12:13:30 USB attach vendor=Generic model=FlashDisk serial=SN000298 mount=/media/usb3
+2026-03-11 12:14:15 USB attach vendor=Generic model=FlashDisk serial=SN000299 mount=/media/usb4
+2026-03-11 12:15:00 USB attach vendor=Generic model=FlashDisk serial=SN000300 mount=/media/usb0
+2026-03-11 12:15:45 USB attach vendor=Generic model=FlashDisk serial=SN000301 mount=/media/usb1
+2026-03-11 12:15:45 USB detach serial=SN000301
+2026-03-11 12:16:30 USB attach vendor=Generic model=FlashDisk serial=SN000302 mount=/media/usb2
+2026-03-11 12:17:15 USB attach vendor=Generic model=FlashDisk serial=SN000303 mount=/media/usb3
+2026-03-11 12:18:00 USB attach vendor=Generic model=FlashDisk serial=SN000304 mount=/media/usb4
+2026-03-11 12:18:45 USB attach vendor=Generic model=FlashDisk serial=SN000305 mount=/media/usb0
+2026-03-11 12:19:30 USB attach vendor=Generic model=FlashDisk serial=SN000306 mount=/media/usb1
+2026-03-11 12:20:15 USB attach vendor=Generic model=FlashDisk serial=SN000307 mount=/media/usb2
+2026-03-11 12:21:00 USB attach vendor=Generic model=FlashDisk serial=SN000308 mount=/media/usb3
+2026-03-11 12:21:00 USB detach serial=SN000308
+2026-03-11 12:21:45 USB attach vendor=Generic model=FlashDisk serial=SN000309 mount=/media/usb4
+2026-03-11 12:22:30 USB attach vendor=Generic model=FlashDisk serial=SN000310 mount=/media/usb0
+2026-03-11 12:23:15 USB attach vendor=Generic model=FlashDisk serial=SN000311 mount=/media/usb1
+2026-03-11 12:24:00 USB attach vendor=Generic model=FlashDisk serial=SN000312 mount=/media/usb2
+2026-03-11 12:24:45 USB attach vendor=Generic model=FlashDisk serial=SN000313 mount=/media/usb3
+2026-03-11 12:25:30 USB attach vendor=Generic model=FlashDisk serial=SN000314 mount=/media/usb4
+2026-03-11 12:26:15 USB attach vendor=Generic model=FlashDisk serial=SN000315 mount=/media/usb0
+2026-03-11 12:26:15 USB detach serial=SN000315
+2026-03-11 12:27:00 USB attach vendor=Generic model=FlashDisk serial=SN000316 mount=/media/usb1
+2026-03-11 12:27:45 USB attach vendor=Generic model=FlashDisk serial=SN000317 mount=/media/usb2
+2026-03-11 12:28:30 USB attach vendor=Generic model=FlashDisk serial=SN000318 mount=/media/usb3
+2026-03-11 12:29:15 USB attach vendor=Generic model=FlashDisk serial=SN000319 mount=/media/usb4
+2026-03-11 12:30:00 USB attach vendor=Generic model=FlashDisk serial=SN000320 mount=/media/usb0
+2026-03-11 12:30:45 USB attach vendor=Generic model=FlashDisk serial=SN000321 mount=/media/usb1
+2026-03-11 12:31:30 USB attach vendor=Generic model=FlashDisk serial=SN000322 mount=/media/usb2
+2026-03-11 12:31:30 USB detach serial=SN000322
+2026-03-11 12:32:15 USB attach vendor=Generic model=FlashDisk serial=SN000323 mount=/media/usb3
+2026-03-11 12:33:00 USB attach vendor=Generic model=FlashDisk serial=SN000324 mount=/media/usb4
+2026-03-11 12:33:45 USB attach vendor=Generic model=FlashDisk serial=SN000325 mount=/media/usb0
+2026-03-11 12:34:30 USB attach vendor=Generic model=FlashDisk serial=SN000326 mount=/media/usb1
+2026-03-11 12:35:15 USB attach vendor=Generic model=FlashDisk serial=SN000327 mount=/media/usb2
+2026-03-11 12:36:00 USB attach vendor=Generic model=FlashDisk serial=SN000328 mount=/media/usb3
+2026-03-11 12:36:45 USB attach vendor=Generic model=FlashDisk serial=SN000329 mount=/media/usb4
+2026-03-11 12:36:45 USB detach serial=SN000329
+2026-03-11 12:37:30 USB attach vendor=Generic model=FlashDisk serial=SN000330 mount=/media/usb0
+2026-03-11 12:38:15 USB attach vendor=Generic model=FlashDisk serial=SN000331 mount=/media/usb1
+2026-03-11 12:39:00 USB attach vendor=Generic model=FlashDisk serial=SN000332 mount=/media/usb2
+2026-03-11 12:39:45 USB attach vendor=Generic model=FlashDisk serial=SN000333 mount=/media/usb3
+2026-03-11 12:40:30 USB attach vendor=Generic model=FlashDisk serial=SN000334 mount=/media/usb4
+2026-03-11 12:41:15 USB attach vendor=Generic model=FlashDisk serial=SN000335 mount=/media/usb0
+2026-03-11 12:42:00 USB attach vendor=Generic model=FlashDisk serial=SN000336 mount=/media/usb1
+2026-03-11 12:42:00 USB detach serial=SN000336
+2026-03-11 12:42:45 USB attach vendor=Generic model=FlashDisk serial=SN000337 mount=/media/usb2
+2026-03-11 12:43:30 USB attach vendor=Generic model=FlashDisk serial=SN000338 mount=/media/usb3
+2026-03-11 12:44:15 USB attach vendor=Generic model=FlashDisk serial=SN000339 mount=/media/usb4
+2026-03-11 12:45:00 USB attach vendor=Generic model=FlashDisk serial=SN000340 mount=/media/usb0
+2026-03-11 12:45:45 USB attach vendor=Generic model=FlashDisk serial=SN000341 mount=/media/usb1
+2026-03-11 12:46:30 USB attach vendor=Generic model=FlashDisk serial=SN000342 mount=/media/usb2
+2026-03-11 12:47:15 USB attach vendor=Generic model=FlashDisk serial=SN000343 mount=/media/usb3
+2026-03-11 12:47:15 USB detach serial=SN000343
+2026-03-11 12:48:00 USB attach vendor=Generic model=FlashDisk serial=SN000344 mount=/media/usb4
+2026-03-11 12:48:45 USB attach vendor=Generic model=FlashDisk serial=SN000345 mount=/media/usb0
+2026-03-11 12:49:30 USB attach vendor=Generic model=FlashDisk serial=SN000346 mount=/media/usb1
+2026-03-11 12:50:15 USB attach vendor=Generic model=FlashDisk serial=SN000347 mount=/media/usb2
+2026-03-11 12:51:00 USB attach vendor=Generic model=FlashDisk serial=SN000348 mount=/media/usb3
+2026-03-11 12:51:45 USB attach vendor=Generic model=FlashDisk serial=SN000349 mount=/media/usb4
+2026-03-11 12:52:30 USB attach vendor=Generic model=FlashDisk serial=SN000350 mount=/media/usb0
+2026-03-11 12:52:30 USB detach serial=SN000350
+2026-03-11 12:53:15 USB attach vendor=Generic model=FlashDisk serial=SN000351 mount=/media/usb1
+2026-03-11 12:54:00 USB attach vendor=Generic model=FlashDisk serial=SN000352 mount=/media/usb2
+2026-03-11 12:54:45 USB attach vendor=Generic model=FlashDisk serial=SN000353 mount=/media/usb3
+2026-03-11 12:55:30 USB attach vendor=Generic model=FlashDisk serial=SN000354 mount=/media/usb4
+2026-03-11 12:56:15 USB attach vendor=Generic model=FlashDisk serial=SN000355 mount=/media/usb0
+2026-03-11 12:57:00 USB attach vendor=Generic model=FlashDisk serial=SN000356 mount=/media/usb1
+2026-03-11 12:57:45 USB attach vendor=Generic model=FlashDisk serial=SN000357 mount=/media/usb2
+2026-03-11 12:57:45 USB detach serial=SN000357
+2026-03-11 12:58:30 USB attach vendor=Generic model=FlashDisk serial=SN000358 mount=/media/usb3
+2026-03-11 12:59:15 USB attach vendor=Generic model=FlashDisk serial=SN000359 mount=/media/usb4
+2026-03-11 13:00:00 USB attach vendor=Generic model=FlashDisk serial=SN000360 mount=/media/usb0
+2026-03-11 13:00:45 USB attach vendor=Generic model=FlashDisk serial=SN000361 mount=/media/usb1
+2026-03-11 13:01:30 USB attach vendor=Generic model=FlashDisk serial=SN000362 mount=/media/usb2
+2026-03-11 13:02:15 USB attach vendor=Generic model=FlashDisk serial=SN000363 mount=/media/usb3
+2026-03-11 13:03:00 USB attach vendor=Generic model=FlashDisk serial=SN000364 mount=/media/usb4
+2026-03-11 13:03:00 USB detach serial=SN000364
+2026-03-11 13:03:45 USB attach vendor=Generic model=FlashDisk serial=SN000365 mount=/media/usb0
+2026-03-11 13:04:30 USB attach vendor=Generic model=FlashDisk serial=SN000366 mount=/media/usb1
+2026-03-11 13:05:15 USB attach vendor=Generic model=FlashDisk serial=SN000367 mount=/media/usb2
+2026-03-11 13:06:00 USB attach vendor=Generic model=FlashDisk serial=SN000368 mount=/media/usb3
+2026-03-11 13:06:45 USB attach vendor=Generic model=FlashDisk serial=SN000369 mount=/media/usb4
+2026-03-11 13:07:30 USB attach vendor=Generic model=FlashDisk serial=SN000370 mount=/media/usb0
+2026-03-11 13:08:15 USB attach vendor=Generic model=FlashDisk serial=SN000371 mount=/media/usb1
+2026-03-11 13:08:15 USB detach serial=SN000371
+2026-03-11 13:09:00 USB attach vendor=Generic model=FlashDisk serial=SN000372 mount=/media/usb2
+2026-03-11 13:09:45 USB attach vendor=Generic model=FlashDisk serial=SN000373 mount=/media/usb3
+2026-03-11 13:10:30 USB attach vendor=Generic model=FlashDisk serial=SN000374 mount=/media/usb4
+2026-03-11 13:11:15 USB attach vendor=Generic model=FlashDisk serial=SN000375 mount=/media/usb0
+2026-03-11 13:12:00 USB attach vendor=Generic model=FlashDisk serial=SN000376 mount=/media/usb1
+2026-03-11 13:12:45 USB attach vendor=Generic model=FlashDisk serial=SN000377 mount=/media/usb2
+2026-03-11 13:13:30 USB attach vendor=Generic model=FlashDisk serial=SN000378 mount=/media/usb3
+2026-03-11 13:13:30 USB detach serial=SN000378
+2026-03-11 13:14:15 USB attach vendor=Generic model=FlashDisk serial=SN000379 mount=/media/usb4
+2026-03-11 13:15:00 USB attach vendor=Generic model=FlashDisk serial=SN000380 mount=/media/usb0
+2026-03-11 13:15:45 USB attach vendor=Generic model=FlashDisk serial=SN000381 mount=/media/usb1
+2026-03-11 13:16:30 USB attach vendor=Generic model=FlashDisk serial=SN000382 mount=/media/usb2
+2026-03-11 13:17:15 USB attach vendor=Generic model=FlashDisk serial=SN000383 mount=/media/usb3
+2026-03-11 13:18:00 USB attach vendor=Generic model=FlashDisk serial=SN000384 mount=/media/usb4
+2026-03-11 13:18:45 USB attach vendor=Generic model=FlashDisk serial=SN000385 mount=/media/usb0
+2026-03-11 13:18:45 USB detach serial=SN000385
+2026-03-11 13:19:30 USB attach vendor=Generic model=FlashDisk serial=SN000386 mount=/media/usb1
+2026-03-11 13:20:15 USB attach vendor=Generic model=FlashDisk serial=SN000387 mount=/media/usb2
+2026-03-11 13:21:00 USB attach vendor=Generic model=FlashDisk serial=SN000388 mount=/media/usb3
+2026-03-11 13:21:45 USB attach vendor=Generic model=FlashDisk serial=SN000389 mount=/media/usb4
+2026-03-11 13:22:30 USB attach vendor=Generic model=FlashDisk serial=SN000390 mount=/media/usb0
+2026-03-11 13:23:15 USB attach vendor=Generic model=FlashDisk serial=SN000391 mount=/media/usb1
+2026-03-11 13:24:00 USB attach vendor=Generic model=FlashDisk serial=SN000392 mount=/media/usb2
+2026-03-11 13:24:00 USB detach serial=SN000392
+2026-03-11 13:24:45 USB attach vendor=Generic model=FlashDisk serial=SN000393 mount=/media/usb3
+2026-03-11 13:25:30 USB attach vendor=Generic model=FlashDisk serial=SN000394 mount=/media/usb4
+2026-03-11 13:26:15 USB attach vendor=Generic model=FlashDisk serial=SN000395 mount=/media/usb0
+2026-03-11 13:27:00 USB attach vendor=Generic model=FlashDisk serial=SN000396 mount=/media/usb1
+2026-03-11 13:27:45 USB attach vendor=Generic model=FlashDisk serial=SN000397 mount=/media/usb2
+2026-03-11 13:28:30 USB attach vendor=Generic model=FlashDisk serial=SN000398 mount=/media/usb3
+2026-03-11 13:29:15 USB attach vendor=Generic model=FlashDisk serial=SN000399 mount=/media/usb4
+2026-03-11 13:29:15 USB detach serial=SN000399
+2026-03-11 13:30:00 USB attach vendor=Generic model=FlashDisk serial=SN000400 mount=/media/usb0
+2026-03-11 13:30:45 USB attach vendor=Generic model=FlashDisk serial=SN000401 mount=/media/usb1
+2026-03-11 13:31:30 USB attach vendor=Generic model=FlashDisk serial=SN000402 mount=/media/usb2
+2026-03-11 13:32:15 USB attach vendor=Generic model=FlashDisk serial=SN000403 mount=/media/usb3
+2026-03-11 13:33:00 USB attach vendor=Generic model=FlashDisk serial=SN000404 mount=/media/usb4
+2026-03-11 13:33:45 USB attach vendor=Generic model=FlashDisk serial=SN000405 mount=/media/usb0
+2026-03-11 13:34:30 USB attach vendor=Generic model=FlashDisk serial=SN000406 mount=/media/usb1
+2026-03-11 13:34:30 USB detach serial=SN000406
+2026-03-11 13:35:15 USB attach vendor=Generic model=FlashDisk serial=SN000407 mount=/media/usb2
+2026-03-11 13:36:00 USB attach vendor=Generic model=FlashDisk serial=SN000408 mount=/media/usb3
+2026-03-11 13:36:45 USB attach vendor=Generic model=FlashDisk serial=SN000409 mount=/media/usb4
+2026-03-11 13:37:30 USB attach vendor=Generic model=FlashDisk serial=SN000410 mount=/media/usb0
+2026-03-11 13:38:15 USB attach vendor=Generic model=FlashDisk serial=SN000411 mount=/media/usb1
+2026-03-11 13:39:00 USB attach vendor=Generic model=FlashDisk serial=SN000412 mount=/media/usb2
+2026-03-11 13:39:45 USB attach vendor=Generic model=FlashDisk serial=SN000413 mount=/media/usb3
+2026-03-11 13:39:45 USB detach serial=SN000413
+2026-03-11 13:40:30 USB attach vendor=Generic model=FlashDisk serial=SN000414 mount=/media/usb4
+2026-03-11 13:41:15 USB attach vendor=Generic model=FlashDisk serial=SN000415 mount=/media/usb0
+2026-03-11 13:42:00 USB attach vendor=Generic model=FlashDisk serial=SN000416 mount=/media/usb1
+2026-03-11 13:42:45 USB attach vendor=Generic model=FlashDisk serial=SN000417 mount=/media/usb2
+2026-03-11 13:43:30 USB attach vendor=Generic model=FlashDisk serial=SN000418 mount=/media/usb3
+2026-03-11 13:44:15 USB attach vendor=Generic model=FlashDisk serial=SN000419 mount=/media/usb4
+2026-03-11 13:45:00 USB attach vendor=Generic model=FlashDisk serial=SN000420 mount=/media/usb0
+2026-03-11 13:45:00 USB detach serial=SN000420
+2026-03-11 13:45:45 USB attach vendor=Generic model=FlashDisk serial=SN000421 mount=/media/usb1
+2026-03-11 13:46:30 USB attach vendor=Generic model=FlashDisk serial=SN000422 mount=/media/usb2
+2026-03-11 13:47:15 USB attach vendor=Generic model=FlashDisk serial=SN000423 mount=/media/usb3
+2026-03-11 13:48:00 USB attach vendor=Generic model=FlashDisk serial=SN000424 mount=/media/usb4
+2026-03-11 13:48:45 USB attach vendor=Generic model=FlashDisk serial=SN000425 mount=/media/usb0
+2026-03-11 13:49:30 USB attach vendor=Generic model=FlashDisk serial=SN000426 mount=/media/usb1
+2026-03-11 13:50:15 USB attach vendor=Generic model=FlashDisk serial=SN000427 mount=/media/usb2
+2026-03-11 13:50:15 USB detach serial=SN000427
+2026-03-11 13:51:00 USB attach vendor=Generic model=FlashDisk serial=SN000428 mount=/media/usb3
+2026-03-11 13:51:45 USB attach vendor=Generic model=FlashDisk serial=SN000429 mount=/media/usb4
+2026-03-11 13:52:30 USB attach vendor=Generic model=FlashDisk serial=SN000430 mount=/media/usb0
+2026-03-11 13:53:15 USB attach vendor=Generic model=FlashDisk serial=SN000431 mount=/media/usb1
+2026-03-11 13:54:00 USB attach vendor=Generic model=FlashDisk serial=SN000432 mount=/media/usb2
+2026-03-11 13:54:45 USB attach vendor=Generic model=FlashDisk serial=SN000433 mount=/media/usb3
+2026-03-11 13:55:30 USB attach vendor=Generic model=FlashDisk serial=SN000434 mount=/media/usb4
+2026-03-11 13:55:30 USB detach serial=SN000434
+2026-03-11 13:56:15 USB attach vendor=Generic model=FlashDisk serial=SN000435 mount=/media/usb0
+2026-03-11 13:57:00 USB attach vendor=Generic model=FlashDisk serial=SN000436 mount=/media/usb1
+2026-03-11 13:57:45 USB attach vendor=Generic model=FlashDisk serial=SN000437 mount=/media/usb2
+2026-03-11 13:58:30 USB attach vendor=Generic model=FlashDisk serial=SN000438 mount=/media/usb3
+2026-03-11 13:59:15 USB attach vendor=Generic model=FlashDisk serial=SN000439 mount=/media/usb4
+2026-03-11 14:00:00 USB attach vendor=Generic model=FlashDisk serial=SN000440 mount=/media/usb0
+2026-03-11 14:00:45 USB attach vendor=Generic model=FlashDisk serial=SN000441 mount=/media/usb1
+2026-03-11 14:00:45 USB detach serial=SN000441
+2026-03-11 14:01:30 USB attach vendor=Generic model=FlashDisk serial=SN000442 mount=/media/usb2
+2026-03-11 14:02:15 USB attach vendor=Generic model=FlashDisk serial=SN000443 mount=/media/usb3
+2026-03-11 14:03:00 USB attach vendor=Generic model=FlashDisk serial=SN000444 mount=/media/usb4
+2026-03-11 14:03:45 USB attach vendor=Generic model=FlashDisk serial=SN000445 mount=/media/usb0
+2026-03-11 14:04:30 USB attach vendor=Generic model=FlashDisk serial=SN000446 mount=/media/usb1
+2026-03-11 14:05:15 USB attach vendor=Generic model=FlashDisk serial=SN000447 mount=/media/usb2
+2026-03-11 14:06:00 USB attach vendor=Generic model=FlashDisk serial=SN000448 mount=/media/usb3
+2026-03-11 14:06:00 USB detach serial=SN000448
+2026-03-11 14:06:45 USB attach vendor=Generic model=FlashDisk serial=SN000449 mount=/media/usb4
+2026-03-11 14:07:30 USB attach vendor=Generic model=FlashDisk serial=SN000450 mount=/media/usb0
+2026-03-11 14:08:15 USB attach vendor=Generic model=FlashDisk serial=SN000451 mount=/media/usb1
+2026-03-11 14:09:00 USB attach vendor=Generic model=FlashDisk serial=SN000452 mount=/media/usb2
+2026-03-11 14:09:45 USB attach vendor=Generic model=FlashDisk serial=SN000453 mount=/media/usb3
+2026-03-11 14:10:30 USB attach vendor=Generic model=FlashDisk serial=SN000454 mount=/media/usb4
+2026-03-11 14:11:15 USB attach vendor=Generic model=FlashDisk serial=SN000455 mount=/media/usb0
+2026-03-11 14:11:15 USB detach serial=SN000455
+2026-03-11 14:12:00 USB attach vendor=Generic model=FlashDisk serial=SN000456 mount=/media/usb1
+2026-03-11 14:12:45 USB attach vendor=Generic model=FlashDisk serial=SN000457 mount=/media/usb2
+2026-03-11 14:13:30 USB attach vendor=Generic model=FlashDisk serial=SN000458 mount=/media/usb3
+2026-03-11 14:14:15 USB attach vendor=Generic model=FlashDisk serial=SN000459 mount=/media/usb4
+2026-03-11 14:15:00 USB attach vendor=Generic model=FlashDisk serial=SN000460 mount=/media/usb0
+2026-03-11 14:15:45 USB attach vendor=Generic model=FlashDisk serial=SN000461 mount=/media/usb1
+2026-03-11 14:16:30 USB attach vendor=Generic model=FlashDisk serial=SN000462 mount=/media/usb2
+2026-03-11 14:16:30 USB detach serial=SN000462
+2026-03-11 14:17:15 USB attach vendor=Generic model=FlashDisk serial=SN000463 mount=/media/usb3
+2026-03-11 14:18:00 USB attach vendor=Generic model=FlashDisk serial=SN000464 mount=/media/usb4
+2026-03-11 14:18:45 USB attach vendor=Generic model=FlashDisk serial=SN000465 mount=/media/usb0
+2026-03-11 14:19:30 USB attach vendor=Generic model=FlashDisk serial=SN000466 mount=/media/usb1
+2026-03-11 14:20:15 USB attach vendor=Generic model=FlashDisk serial=SN000467 mount=/media/usb2
+2026-03-11 14:21:00 USB attach vendor=Generic model=FlashDisk serial=SN000468 mount=/media/usb3
+2026-03-11 14:21:45 USB attach vendor=Generic model=FlashDisk serial=SN000469 mount=/media/usb4
+2026-03-11 14:21:45 USB detach serial=SN000469
+2026-03-11 14:22:30 USB attach vendor=Generic model=FlashDisk serial=SN000470 mount=/media/usb0
+2026-03-11 14:23:15 USB attach vendor=Generic model=FlashDisk serial=SN000471 mount=/media/usb1
+2026-03-11 14:24:00 USB attach vendor=Generic model=FlashDisk serial=SN000472 mount=/media/usb2
+2026-03-11 14:24:45 USB attach vendor=Generic model=FlashDisk serial=SN000473 mount=/media/usb3
+2026-03-11 14:25:30 USB attach vendor=Generic model=FlashDisk serial=SN000474 mount=/media/usb4
+2026-03-11 14:26:15 USB attach vendor=Generic model=FlashDisk serial=SN000475 mount=/media/usb0
+2026-03-11 14:27:00 USB attach vendor=Generic model=FlashDisk serial=SN000476 mount=/media/usb1
+2026-03-11 14:27:00 USB detach serial=SN000476
+2026-03-11 14:27:45 USB attach vendor=Generic model=FlashDisk serial=SN000477 mount=/media/usb2
+2026-03-11 14:28:30 USB attach vendor=Generic model=FlashDisk serial=SN000478 mount=/media/usb3
+2026-03-11 14:29:15 USB attach vendor=Generic model=FlashDisk serial=SN000479 mount=/media/usb4
+2026-03-11 14:30:00 USB attach vendor=Generic model=FlashDisk serial=SN000480 mount=/media/usb0
+2026-03-11 14:30:45 USB attach vendor=Generic model=FlashDisk serial=SN000481 mount=/media/usb1
+2026-03-11 14:31:30 USB attach vendor=Generic model=FlashDisk serial=SN000482 mount=/media/usb2
+2026-03-11 14:32:15 USB attach vendor=Generic model=FlashDisk serial=SN000483 mount=/media/usb3
+2026-03-11 14:32:15 USB detach serial=SN000483
+2026-03-11 14:33:00 USB attach vendor=Generic model=FlashDisk serial=SN000484 mount=/media/usb4
+2026-03-11 14:33:45 USB attach vendor=Generic model=FlashDisk serial=SN000485 mount=/media/usb0
+2026-03-11 14:34:30 USB attach vendor=Generic model=FlashDisk serial=SN000486 mount=/media/usb1
+2026-03-11 14:35:15 USB attach vendor=Generic model=FlashDisk serial=SN000487 mount=/media/usb2
+2026-03-11 14:36:00 USB attach vendor=Generic model=FlashDisk serial=SN000488 mount=/media/usb3
+2026-03-11 14:36:45 USB attach vendor=Generic model=FlashDisk serial=SN000489 mount=/media/usb4
+2026-03-11 14:37:30 USB attach vendor=Generic model=FlashDisk serial=SN000490 mount=/media/usb0
+2026-03-11 14:37:30 USB detach serial=SN000490
+2026-03-11 14:38:15 USB attach vendor=Generic model=FlashDisk serial=SN000491 mount=/media/usb1
+2026-03-11 14:39:00 USB attach vendor=Generic model=FlashDisk serial=SN000492 mount=/media/usb2
+2026-03-11 14:39:45 USB attach vendor=Generic model=FlashDisk serial=SN000493 mount=/media/usb3
+2026-03-11 14:40:30 USB attach vendor=Generic model=FlashDisk serial=SN000494 mount=/media/usb4
+2026-03-11 14:41:15 USB attach vendor=Generic model=FlashDisk serial=SN000495 mount=/media/usb0
+2026-03-11 14:42:00 USB attach vendor=Generic model=FlashDisk serial=SN000496 mount=/media/usb1
+2026-03-11 14:42:45 USB attach vendor=Generic model=FlashDisk serial=SN000497 mount=/media/usb2
+2026-03-11 14:42:45 USB detach serial=SN000497
+2026-03-11 14:43:30 USB attach vendor=Generic model=FlashDisk serial=SN000498 mount=/media/usb3
+2026-03-11 14:44:15 USB attach vendor=Generic model=FlashDisk serial=SN000499 mount=/media/usb4
+2026-03-11 14:45:00 USB attach vendor=Generic model=FlashDisk serial=SN000500 mount=/media/usb0
+2026-03-11 14:45:45 USB attach vendor=Generic model=FlashDisk serial=SN000501 mount=/media/usb1
+2026-03-11 14:46:30 USB attach vendor=Generic model=FlashDisk serial=SN000502 mount=/media/usb2
+2026-03-11 14:47:15 USB attach vendor=Generic model=FlashDisk serial=SN000503 mount=/media/usb3
+2026-03-11 14:48:00 USB attach vendor=Generic model=FlashDisk serial=SN000504 mount=/media/usb4
+2026-03-11 14:48:00 USB detach serial=SN000504
+2026-03-11 14:48:45 USB attach vendor=Generic model=FlashDisk serial=SN000505 mount=/media/usb0
+2026-03-11 14:49:30 USB attach vendor=Generic model=FlashDisk serial=SN000506 mount=/media/usb1
+2026-03-11 14:50:15 USB attach vendor=Generic model=FlashDisk serial=SN000507 mount=/media/usb2
+2026-03-11 14:51:00 USB attach vendor=Generic model=FlashDisk serial=SN000508 mount=/media/usb3
+2026-03-11 14:51:45 USB attach vendor=Generic model=FlashDisk serial=SN000509 mount=/media/usb4
+2026-03-11 14:52:30 USB attach vendor=Generic model=FlashDisk serial=SN000510 mount=/media/usb0
+2026-03-11 14:53:15 USB attach vendor=Generic model=FlashDisk serial=SN000511 mount=/media/usb1
+2026-03-11 14:53:15 USB detach serial=SN000511
+2026-03-11 14:54:00 USB attach vendor=Generic model=FlashDisk serial=SN000512 mount=/media/usb2
+2026-03-11 14:54:45 USB attach vendor=Generic model=FlashDisk serial=SN000513 mount=/media/usb3
+2026-03-11 14:55:30 USB attach vendor=Generic model=FlashDisk serial=SN000514 mount=/media/usb4
+2026-03-11 14:56:15 USB attach vendor=Generic model=FlashDisk serial=SN000515 mount=/media/usb0
+2026-03-11 14:57:00 USB attach vendor=Generic model=FlashDisk serial=SN000516 mount=/media/usb1
+2026-03-11 14:57:45 USB attach vendor=Generic model=FlashDisk serial=SN000517 mount=/media/usb2
+2026-03-11 14:58:30 USB attach vendor=Generic model=FlashDisk serial=SN000518 mount=/media/usb3
+2026-03-11 14:58:30 USB detach serial=SN000518
+2026-03-11 14:59:15 USB attach vendor=Generic model=FlashDisk serial=SN000519 mount=/media/usb4
+2026-03-11 15:00:00 USB attach vendor=Generic model=FlashDisk serial=SN000520 mount=/media/usb0
+2026-03-11 15:00:45 USB attach vendor=Generic model=FlashDisk serial=SN000521 mount=/media/usb1
+2026-03-11 15:01:30 USB attach vendor=Generic model=FlashDisk serial=SN000522 mount=/media/usb2
+2026-03-11 15:02:15 USB attach vendor=Generic model=FlashDisk serial=SN000523 mount=/media/usb3
+2026-03-11 15:03:00 USB attach vendor=Generic model=FlashDisk serial=SN000524 mount=/media/usb4
+2026-03-11 15:03:45 USB attach vendor=Generic model=FlashDisk serial=SN000525 mount=/media/usb0
+2026-03-11 15:03:45 USB detach serial=SN000525
+2026-03-11 15:04:30 USB attach vendor=Generic model=FlashDisk serial=SN000526 mount=/media/usb1
+2026-03-11 15:05:15 USB attach vendor=Generic model=FlashDisk serial=SN000527 mount=/media/usb2
+2026-03-11 15:06:00 USB attach vendor=Generic model=FlashDisk serial=SN000528 mount=/media/usb3
+2026-03-11 15:06:45 USB attach vendor=Generic model=FlashDisk serial=SN000529 mount=/media/usb4
+2026-03-11 15:07:30 USB attach vendor=Generic model=FlashDisk serial=SN000530 mount=/media/usb0
+2026-03-11 15:08:15 USB attach vendor=Generic model=FlashDisk serial=SN000531 mount=/media/usb1
+2026-03-11 15:09:00 USB attach vendor=Generic model=FlashDisk serial=SN000532 mount=/media/usb2
+2026-03-11 15:09:00 USB detach serial=SN000532
+2026-03-11 15:09:45 USB attach vendor=Generic model=FlashDisk serial=SN000533 mount=/media/usb3
+2026-03-11 15:10:30 USB attach vendor=Generic model=FlashDisk serial=SN000534 mount=/media/usb4
+2026-03-11 15:11:15 USB attach vendor=Generic model=FlashDisk serial=SN000535 mount=/media/usb0
+2026-03-11 15:12:00 USB attach vendor=Generic model=FlashDisk serial=SN000536 mount=/media/usb1
+2026-03-11 15:12:45 USB attach vendor=Generic model=FlashDisk serial=SN000537 mount=/media/usb2
+2026-03-11 15:13:30 USB attach vendor=Generic model=FlashDisk serial=SN000538 mount=/media/usb3
+2026-03-11 15:14:15 USB attach vendor=Generic model=FlashDisk serial=SN000539 mount=/media/usb4
+2026-03-11 15:14:15 USB detach serial=SN000539
+2026-03-11 15:15:00 USB attach vendor=Generic model=FlashDisk serial=SN000540 mount=/media/usb0
+2026-03-11 15:15:45 USB attach vendor=Generic model=FlashDisk serial=SN000541 mount=/media/usb1
+2026-03-11 15:16:30 USB attach vendor=Generic model=FlashDisk serial=SN000542 mount=/media/usb2
+2026-03-11 15:17:15 USB attach vendor=Generic model=FlashDisk serial=SN000543 mount=/media/usb3
+2026-03-11 15:18:00 USB attach vendor=Generic model=FlashDisk serial=SN000544 mount=/media/usb4
+2026-03-11 15:18:45 USB attach vendor=Generic model=FlashDisk serial=SN000545 mount=/media/usb0
+2026-03-11 15:19:30 USB attach vendor=Generic model=FlashDisk serial=SN000546 mount=/media/usb1
+2026-03-11 15:19:30 USB detach serial=SN000546
+2026-03-11 15:20:15 USB attach vendor=Generic model=FlashDisk serial=SN000547 mount=/media/usb2
+2026-03-11 15:21:00 USB attach vendor=Generic model=FlashDisk serial=SN000548 mount=/media/usb3
+2026-03-11 15:21:45 USB attach vendor=Generic model=FlashDisk serial=SN000549 mount=/media/usb4
+2026-03-11 15:22:30 USB attach vendor=Generic model=FlashDisk serial=SN000550 mount=/media/usb0
+2026-03-11 15:23:15 USB attach vendor=Generic model=FlashDisk serial=SN000551 mount=/media/usb1
+2026-03-11 15:24:00 USB attach vendor=Generic model=FlashDisk serial=SN000552 mount=/media/usb2
+2026-03-11 15:24:45 USB attach vendor=Generic model=FlashDisk serial=SN000553 mount=/media/usb3
+2026-03-11 15:24:45 USB detach serial=SN000553
+2026-03-11 15:25:30 USB attach vendor=Generic model=FlashDisk serial=SN000554 mount=/media/usb4
+2026-03-11 15:26:15 USB attach vendor=Generic model=FlashDisk serial=SN000555 mount=/media/usb0
+2026-03-11 15:27:00 USB attach vendor=Generic model=FlashDisk serial=SN000556 mount=/media/usb1
+2026-03-11 15:27:45 USB attach vendor=Generic model=FlashDisk serial=SN000557 mount=/media/usb2
+2026-03-11 15:28:30 USB attach vendor=Generic model=FlashDisk serial=SN000558 mount=/media/usb3
+2026-03-11 15:29:15 USB attach vendor=Generic model=FlashDisk serial=SN000559 mount=/media/usb4
+2026-03-11 15:30:00 USB attach vendor=Generic model=FlashDisk serial=SN000560 mount=/media/usb0
+2026-03-11 15:30:00 USB detach serial=SN000560
+2026-03-11 15:30:45 USB attach vendor=Generic model=FlashDisk serial=SN000561 mount=/media/usb1
+2026-03-11 15:31:30 USB attach vendor=Generic model=FlashDisk serial=SN000562 mount=/media/usb2
+2026-03-11 15:32:15 USB attach vendor=Generic model=FlashDisk serial=SN000563 mount=/media/usb3
+2026-03-11 15:33:00 USB attach vendor=Generic model=FlashDisk serial=SN000564 mount=/media/usb4
+2026-03-11 15:33:45 USB attach vendor=Generic model=FlashDisk serial=SN000565 mount=/media/usb0
+2026-03-11 15:34:30 USB attach vendor=Generic model=FlashDisk serial=SN000566 mount=/media/usb1
+2026-03-11 15:35:15 USB attach vendor=Generic model=FlashDisk serial=SN000567 mount=/media/usb2
+2026-03-11 15:35:15 USB detach serial=SN000567
+2026-03-11 15:36:00 USB attach vendor=Generic model=FlashDisk serial=SN000568 mount=/media/usb3
+2026-03-11 15:36:45 USB attach vendor=Generic model=FlashDisk serial=SN000569 mount=/media/usb4
+2026-03-11 15:37:30 USB attach vendor=Generic model=FlashDisk serial=SN000570 mount=/media/usb0
+2026-03-11 15:38:15 USB attach vendor=Generic model=FlashDisk serial=SN000571 mount=/media/usb1
+2026-03-11 15:39:00 USB attach vendor=Generic model=FlashDisk serial=SN000572 mount=/media/usb2
+2026-03-11 15:39:45 USB attach vendor=Generic model=FlashDisk serial=SN000573 mount=/media/usb3
+2026-03-11 15:40:30 USB attach vendor=Generic model=FlashDisk serial=SN000574 mount=/media/usb4
+2026-03-11 15:40:30 USB detach serial=SN000574
+2026-03-11 15:41:15 USB attach vendor=Generic model=FlashDisk serial=SN000575 mount=/media/usb0
+2026-03-11 15:42:00 USB attach vendor=Generic model=FlashDisk serial=SN000576 mount=/media/usb1
+2026-03-11 15:42:45 USB attach vendor=Generic model=FlashDisk serial=SN000577 mount=/media/usb2
+2026-03-11 15:43:30 USB attach vendor=Generic model=FlashDisk serial=SN000578 mount=/media/usb3
+2026-03-11 15:44:15 USB attach vendor=Generic model=FlashDisk serial=SN000579 mount=/media/usb4
+2026-03-11 15:45:00 USB attach vendor=Generic model=FlashDisk serial=SN000580 mount=/media/usb0
+2026-03-11 15:45:45 USB attach vendor=Generic model=FlashDisk serial=SN000581 mount=/media/usb1
+2026-03-11 15:45:45 USB detach serial=SN000581
+2026-03-11 15:46:30 USB attach vendor=Generic model=FlashDisk serial=SN000582 mount=/media/usb2
+2026-03-11 15:47:15 USB attach vendor=Generic model=FlashDisk serial=SN000583 mount=/media/usb3
+2026-03-11 15:48:00 USB attach vendor=Generic model=FlashDisk serial=SN000584 mount=/media/usb4
+2026-03-11 15:48:45 USB attach vendor=Generic model=FlashDisk serial=SN000585 mount=/media/usb0
+2026-03-11 15:49:30 USB attach vendor=Generic model=FlashDisk serial=SN000586 mount=/media/usb1
+2026-03-11 15:50:15 USB attach vendor=Generic model=FlashDisk serial=SN000587 mount=/media/usb2
+2026-03-11 15:51:00 USB attach vendor=Generic model=FlashDisk serial=SN000588 mount=/media/usb3
+2026-03-11 15:51:00 USB detach serial=SN000588
+2026-03-11 15:51:45 USB attach vendor=Generic model=FlashDisk serial=SN000589 mount=/media/usb4
+2026-03-11 15:52:30 USB attach vendor=Generic model=FlashDisk serial=SN000590 mount=/media/usb0
+2026-03-11 15:53:15 USB attach vendor=Generic model=FlashDisk serial=SN000591 mount=/media/usb1
+2026-03-11 15:54:00 USB attach vendor=Generic model=FlashDisk serial=SN000592 mount=/media/usb2
+2026-03-11 15:54:45 USB attach vendor=Generic model=FlashDisk serial=SN000593 mount=/media/usb3
+2026-03-11 15:55:30 USB attach vendor=Generic model=FlashDisk serial=SN000594 mount=/media/usb4
+2026-03-11 15:56:15 USB attach vendor=Generic model=FlashDisk serial=SN000595 mount=/media/usb0
+2026-03-11 15:56:15 USB detach serial=SN000595
+2026-03-11 15:57:00 USB attach vendor=Generic model=FlashDisk serial=SN000596 mount=/media/usb1
+2026-03-11 15:57:45 USB attach vendor=Generic model=FlashDisk serial=SN000597 mount=/media/usb2
+2026-03-11 15:58:30 USB attach vendor=Generic model=FlashDisk serial=SN000598 mount=/media/usb3
+2026-03-11 15:59:15 USB attach vendor=Generic model=FlashDisk serial=SN000599 mount=/media/usb4
+2026-03-11 16:00:00 USB attach vendor=Generic model=FlashDisk serial=SN000600 mount=/media/usb0
+2026-03-11 16:00:45 USB attach vendor=Generic model=FlashDisk serial=SN000601 mount=/media/usb1
+2026-03-11 16:01:30 USB attach vendor=Generic model=FlashDisk serial=SN000602 mount=/media/usb2
+2026-03-11 16:01:30 USB detach serial=SN000602
+2026-03-11 16:02:15 USB attach vendor=Generic model=FlashDisk serial=SN000603 mount=/media/usb3
+2026-03-11 16:03:00 USB attach vendor=Generic model=FlashDisk serial=SN000604 mount=/media/usb4
+2026-03-11 16:03:45 USB attach vendor=Generic model=FlashDisk serial=SN000605 mount=/media/usb0
+2026-03-11 16:04:30 USB attach vendor=Generic model=FlashDisk serial=SN000606 mount=/media/usb1
+2026-03-11 16:05:15 USB attach vendor=Generic model=FlashDisk serial=SN000607 mount=/media/usb2
+2026-03-11 16:06:00 USB attach vendor=Generic model=FlashDisk serial=SN000608 mount=/media/usb3
+2026-03-11 16:06:45 USB attach vendor=Generic model=FlashDisk serial=SN000609 mount=/media/usb4
+2026-03-11 16:06:45 USB detach serial=SN000609
+2026-03-11 16:07:30 USB attach vendor=Generic model=FlashDisk serial=SN000610 mount=/media/usb0
+2026-03-11 16:08:15 USB attach vendor=Generic model=FlashDisk serial=SN000611 mount=/media/usb1
+2026-03-11 16:09:00 USB attach vendor=Generic model=FlashDisk serial=SN000612 mount=/media/usb2
+2026-03-11 16:09:45 USB attach vendor=Generic model=FlashDisk serial=SN000613 mount=/media/usb3
+2026-03-11 16:10:30 USB attach vendor=Generic model=FlashDisk serial=SN000614 mount=/media/usb4
+2026-03-11 16:11:15 USB attach vendor=Generic model=FlashDisk serial=SN000615 mount=/media/usb0
+2026-03-11 16:12:00 USB attach vendor=Generic model=FlashDisk serial=SN000616 mount=/media/usb1
+2026-03-11 16:12:00 USB detach serial=SN000616
+2026-03-11 16:12:45 USB attach vendor=Generic model=FlashDisk serial=SN000617 mount=/media/usb2
+2026-03-11 16:13:30 USB attach vendor=Generic model=FlashDisk serial=SN000618 mount=/media/usb3
+2026-03-11 16:14:15 USB attach vendor=Generic model=FlashDisk serial=SN000619 mount=/media/usb4
+2026-03-11 16:15:00 USB attach vendor=Generic model=FlashDisk serial=SN000620 mount=/media/usb0
+2026-03-11 16:15:45 USB attach vendor=Generic model=FlashDisk serial=SN000621 mount=/media/usb1
+2026-03-11 16:16:30 USB attach vendor=Generic model=FlashDisk serial=SN000622 mount=/media/usb2
+2026-03-11 16:17:15 USB attach vendor=Generic model=FlashDisk serial=SN000623 mount=/media/usb3
+2026-03-11 16:17:15 USB detach serial=SN000623
+2026-03-11 16:18:00 USB attach vendor=Generic model=FlashDisk serial=SN000624 mount=/media/usb4
+2026-03-11 16:18:45 USB attach vendor=Generic model=FlashDisk serial=SN000625 mount=/media/usb0
+2026-03-11 16:19:30 USB attach vendor=Generic model=FlashDisk serial=SN000626 mount=/media/usb1
+2026-03-11 16:20:15 USB attach vendor=Generic model=FlashDisk serial=SN000627 mount=/media/usb2
+2026-03-11 16:21:00 USB attach vendor=Generic model=FlashDisk serial=SN000628 mount=/media/usb3
+2026-03-11 16:21:45 USB attach vendor=Generic model=FlashDisk serial=SN000629 mount=/media/usb4
+2026-03-11 16:22:30 USB attach vendor=Generic model=FlashDisk serial=SN000630 mount=/media/usb0
+2026-03-11 16:22:30 USB detach serial=SN000630
+2026-03-11 16:23:15 USB attach vendor=Generic model=FlashDisk serial=SN000631 mount=/media/usb1
+2026-03-11 16:24:00 USB attach vendor=Generic model=FlashDisk serial=SN000632 mount=/media/usb2
+2026-03-11 16:24:45 USB attach vendor=Generic model=FlashDisk serial=SN000633 mount=/media/usb3
+2026-03-11 16:25:30 USB attach vendor=Generic model=FlashDisk serial=SN000634 mount=/media/usb4
+2026-03-11 16:26:15 USB attach vendor=Generic model=FlashDisk serial=SN000635 mount=/media/usb0
+2026-03-11 16:27:00 USB attach vendor=Generic model=FlashDisk serial=SN000636 mount=/media/usb1
+2026-03-11 16:27:45 USB attach vendor=Generic model=FlashDisk serial=SN000637 mount=/media/usb2
+2026-03-11 16:27:45 USB detach serial=SN000637
+2026-03-11 16:28:30 USB attach vendor=Generic model=FlashDisk serial=SN000638 mount=/media/usb3
+2026-03-11 16:29:15 USB attach vendor=Generic model=FlashDisk serial=SN000639 mount=/media/usb4
+2026-03-11 16:30:00 USB attach vendor=Generic model=FlashDisk serial=SN000640 mount=/media/usb0
+2026-03-11 16:30:45 USB attach vendor=Generic model=FlashDisk serial=SN000641 mount=/media/usb1
+2026-03-11 16:31:30 USB attach vendor=Generic model=FlashDisk serial=SN000642 mount=/media/usb2
+2026-03-11 16:32:15 USB attach vendor=Generic model=FlashDisk serial=SN000643 mount=/media/usb3
+2026-03-11 16:33:00 USB attach vendor=Generic model=FlashDisk serial=SN000644 mount=/media/usb4
+2026-03-11 16:33:00 USB detach serial=SN000644
+2026-03-11 16:33:45 USB attach vendor=Generic model=FlashDisk serial=SN000645 mount=/media/usb0
+2026-03-11 16:34:30 USB attach vendor=Generic model=FlashDisk serial=SN000646 mount=/media/usb1
+2026-03-11 16:35:15 USB attach vendor=Generic model=FlashDisk serial=SN000647 mount=/media/usb2
+2026-03-11 16:36:00 USB attach vendor=Generic model=FlashDisk serial=SN000648 mount=/media/usb3
+2026-03-11 16:36:45 USB attach vendor=Generic model=FlashDisk serial=SN000649 mount=/media/usb4
+2026-03-11 16:37:30 USB attach vendor=Generic model=FlashDisk serial=SN000650 mount=/media/usb0
+2026-03-11 16:38:15 USB attach vendor=Generic model=FlashDisk serial=SN000651 mount=/media/usb1
+2026-03-11 16:38:15 USB detach serial=SN000651
+2026-03-11 16:39:00 USB attach vendor=Generic model=FlashDisk serial=SN000652 mount=/media/usb2
+2026-03-11 16:39:45 USB attach vendor=Generic model=FlashDisk serial=SN000653 mount=/media/usb3
+2026-03-11 16:40:30 USB attach vendor=Generic model=FlashDisk serial=SN000654 mount=/media/usb4
+2026-03-11 16:41:15 USB attach vendor=Generic model=FlashDisk serial=SN000655 mount=/media/usb0
+2026-03-11 16:42:00 USB attach vendor=Generic model=FlashDisk serial=SN000656 mount=/media/usb1
+2026-03-11 16:42:45 USB attach vendor=Generic model=FlashDisk serial=SN000657 mount=/media/usb2
+2026-03-11 16:43:30 USB attach vendor=Generic model=FlashDisk serial=SN000658 mount=/media/usb3
+2026-03-11 16:43:30 USB detach serial=SN000658
+2026-03-11 16:44:15 USB attach vendor=Generic model=FlashDisk serial=SN000659 mount=/media/usb4
+2026-03-11 16:45:00 USB attach vendor=Generic model=FlashDisk serial=SN000660 mount=/media/usb0
+2026-03-11 16:45:45 USB attach vendor=Generic model=FlashDisk serial=SN000661 mount=/media/usb1
+2026-03-11 16:46:30 USB attach vendor=Generic model=FlashDisk serial=SN000662 mount=/media/usb2
+2026-03-11 16:47:15 USB attach vendor=Generic model=FlashDisk serial=SN000663 mount=/media/usb3
+2026-03-11 16:48:00 USB attach vendor=Generic model=FlashDisk serial=SN000664 mount=/media/usb4
+2026-03-11 16:48:45 USB attach vendor=Generic model=FlashDisk serial=SN000665 mount=/media/usb0
+2026-03-11 16:48:45 USB detach serial=SN000665
+2026-03-11 16:49:30 USB attach vendor=Generic model=FlashDisk serial=SN000666 mount=/media/usb1
+2026-03-11 16:50:15 USB attach vendor=Generic model=FlashDisk serial=SN000667 mount=/media/usb2
+2026-03-11 16:51:00 USB attach vendor=Generic model=FlashDisk serial=SN000668 mount=/media/usb3
+2026-03-11 16:51:45 USB attach vendor=Generic model=FlashDisk serial=SN000669 mount=/media/usb4
+2026-03-11 16:52:30 USB attach vendor=Generic model=FlashDisk serial=SN000670 mount=/media/usb0
+2026-03-11 16:53:15 USB attach vendor=Generic model=FlashDisk serial=SN000671 mount=/media/usb1
+2026-03-11 16:54:00 USB attach vendor=Generic model=FlashDisk serial=SN000672 mount=/media/usb2
+2026-03-11 16:54:00 USB detach serial=SN000672
+2026-03-11 16:54:45 USB attach vendor=Generic model=FlashDisk serial=SN000673 mount=/media/usb3
+2026-03-11 16:55:30 USB attach vendor=Generic model=FlashDisk serial=SN000674 mount=/media/usb4
+2026-03-11 16:56:15 USB attach vendor=Generic model=FlashDisk serial=SN000675 mount=/media/usb0
+2026-03-11 16:57:00 USB attach vendor=Generic model=FlashDisk serial=SN000676 mount=/media/usb1
+2026-03-11 16:57:45 USB attach vendor=Generic model=FlashDisk serial=SN000677 mount=/media/usb2
+2026-03-11 16:58:30 USB attach vendor=Generic model=FlashDisk serial=SN000678 mount=/media/usb3
+2026-03-11 16:59:15 USB attach vendor=Generic model=FlashDisk serial=SN000679 mount=/media/usb4
+2026-03-11 16:59:15 USB detach serial=SN000679
+2026-03-11 17:00:00 USB attach vendor=Generic model=FlashDisk serial=SN000680 mount=/media/usb0
+2026-03-11 17:00:45 USB attach vendor=Generic model=FlashDisk serial=SN000681 mount=/media/usb1
+2026-03-11 17:01:30 USB attach vendor=Generic model=FlashDisk serial=SN000682 mount=/media/usb2
+2026-03-11 17:02:15 USB attach vendor=Generic model=FlashDisk serial=SN000683 mount=/media/usb3
+2026-03-11 17:03:00 USB attach vendor=Generic model=FlashDisk serial=SN000684 mount=/media/usb4
+2026-03-11 17:03:45 USB attach vendor=Generic model=FlashDisk serial=SN000685 mount=/media/usb0
+2026-03-11 17:04:30 USB attach vendor=Generic model=FlashDisk serial=SN000686 mount=/media/usb1
+2026-03-11 17:04:30 USB detach serial=SN000686
+2026-03-11 17:05:15 USB attach vendor=Generic model=FlashDisk serial=SN000687 mount=/media/usb2
+2026-03-11 17:06:00 USB attach vendor=Generic model=FlashDisk serial=SN000688 mount=/media/usb3
+2026-03-11 17:06:45 USB attach vendor=Generic model=FlashDisk serial=SN000689 mount=/media/usb4
+2026-03-11 17:07:30 USB attach vendor=Generic model=FlashDisk serial=SN000690 mount=/media/usb0
+2026-03-11 17:08:15 USB attach vendor=Generic model=FlashDisk serial=SN000691 mount=/media/usb1
+2026-03-11 17:09:00 USB attach vendor=Generic model=FlashDisk serial=SN000692 mount=/media/usb2
+2026-03-11 17:09:45 USB attach vendor=Generic model=FlashDisk serial=SN000693 mount=/media/usb3
+2026-03-11 17:09:45 USB detach serial=SN000693
+2026-03-11 17:10:30 USB attach vendor=Generic model=FlashDisk serial=SN000694 mount=/media/usb4
+2026-03-11 17:11:15 USB attach vendor=Generic model=FlashDisk serial=SN000695 mount=/media/usb0
+2026-03-11 17:12:00 USB attach vendor=Generic model=FlashDisk serial=SN000696 mount=/media/usb1
+2026-03-11 17:12:45 USB attach vendor=Generic model=FlashDisk serial=SN000697 mount=/media/usb2
+2026-03-11 17:13:30 USB attach vendor=Generic model=FlashDisk serial=SN000698 mount=/media/usb3
+2026-03-11 17:14:15 USB attach vendor=Generic model=FlashDisk serial=SN000699 mount=/media/usb4
+2026-03-11 17:15:00 USB attach vendor=Generic model=FlashDisk serial=SN000700 mount=/media/usb0
+2026-03-11 17:15:00 USB detach serial=SN000700
+2026-03-11 17:15:45 USB attach vendor=Generic model=FlashDisk serial=SN000701 mount=/media/usb1
+2026-03-11 17:16:30 USB attach vendor=Generic model=FlashDisk serial=SN000702 mount=/media/usb2
+2026-03-11 17:17:15 USB attach vendor=Generic model=FlashDisk serial=SN000703 mount=/media/usb3
+2026-03-11 17:18:00 USB attach vendor=Generic model=FlashDisk serial=SN000704 mount=/media/usb4
+2026-03-11 17:18:45 USB attach vendor=Generic model=FlashDisk serial=SN000705 mount=/media/usb0
+2026-03-11 17:19:30 USB attach vendor=Generic model=FlashDisk serial=SN000706 mount=/media/usb1
+2026-03-11 17:20:15 USB attach vendor=Generic model=FlashDisk serial=SN000707 mount=/media/usb2
+2026-03-11 17:20:15 USB detach serial=SN000707
+2026-03-11 17:21:00 USB attach vendor=Generic model=FlashDisk serial=SN000708 mount=/media/usb3
+2026-03-11 17:21:45 USB attach vendor=Generic model=FlashDisk serial=SN000709 mount=/media/usb4
+2026-03-11 17:22:30 USB attach vendor=Generic model=FlashDisk serial=SN000710 mount=/media/usb0
+2026-03-11 17:23:15 USB attach vendor=Generic model=FlashDisk serial=SN000711 mount=/media/usb1
+2026-03-11 17:24:00 USB attach vendor=Generic model=FlashDisk serial=SN000712 mount=/media/usb2
+2026-03-11 17:24:45 USB attach vendor=Generic model=FlashDisk serial=SN000713 mount=/media/usb3
+2026-03-11 17:25:30 USB attach vendor=Generic model=FlashDisk serial=SN000714 mount=/media/usb4
+2026-03-11 17:25:30 USB detach serial=SN000714
+2026-03-11 17:26:15 USB attach vendor=Generic model=FlashDisk serial=SN000715 mount=/media/usb0
+2026-03-11 17:27:00 USB attach vendor=Generic model=FlashDisk serial=SN000716 mount=/media/usb1
+2026-03-11 17:27:45 USB attach vendor=Generic model=FlashDisk serial=SN000717 mount=/media/usb2
+2026-03-11 17:28:30 USB attach vendor=Generic model=FlashDisk serial=SN000718 mount=/media/usb3
+2026-03-11 17:29:15 USB attach vendor=Generic model=FlashDisk serial=SN000719 mount=/media/usb4
+2026-03-11 17:30:00 USB attach vendor=Generic model=FlashDisk serial=SN000720 mount=/media/usb0
+2026-03-11 17:30:45 USB attach vendor=Generic model=FlashDisk serial=SN000721 mount=/media/usb1
+2026-03-11 17:30:45 USB detach serial=SN000721
+2026-03-11 17:31:30 USB attach vendor=Generic model=FlashDisk serial=SN000722 mount=/media/usb2
+2026-03-11 17:32:15 USB attach vendor=Generic model=FlashDisk serial=SN000723 mount=/media/usb3
+2026-03-11 17:33:00 USB attach vendor=Generic model=FlashDisk serial=SN000724 mount=/media/usb4
+2026-03-11 17:33:45 USB attach vendor=Generic model=FlashDisk serial=SN000725 mount=/media/usb0
+2026-03-11 17:34:30 USB attach vendor=Generic model=FlashDisk serial=SN000726 mount=/media/usb1
+2026-03-11 17:35:15 USB attach vendor=Generic model=FlashDisk serial=SN000727 mount=/media/usb2
+2026-03-11 17:36:00 USB attach vendor=Generic model=FlashDisk serial=SN000728 mount=/media/usb3
+2026-03-11 17:36:00 USB detach serial=SN000728
+2026-03-11 17:36:45 USB attach vendor=Generic model=FlashDisk serial=SN000729 mount=/media/usb4
+2026-03-11 17:37:30 USB attach vendor=Generic model=FlashDisk serial=SN000730 mount=/media/usb0
+2026-03-11 17:38:15 USB attach vendor=Generic model=FlashDisk serial=SN000731 mount=/media/usb1
+2026-03-11 17:39:00 USB attach vendor=Generic model=FlashDisk serial=SN000732 mount=/media/usb2
+2026-03-11 17:39:45 USB attach vendor=Generic model=FlashDisk serial=SN000733 mount=/media/usb3
+2026-03-11 17:40:30 USB attach vendor=Generic model=FlashDisk serial=SN000734 mount=/media/usb4
+2026-03-11 17:41:15 USB attach vendor=Generic model=FlashDisk serial=SN000735 mount=/media/usb0
+2026-03-11 17:41:15 USB detach serial=SN000735
+2026-03-11 17:42:00 USB attach vendor=Generic model=FlashDisk serial=SN000736 mount=/media/usb1
+2026-03-11 17:42:45 USB attach vendor=Generic model=FlashDisk serial=SN000737 mount=/media/usb2
+2026-03-11 17:43:30 USB attach vendor=Generic model=FlashDisk serial=SN000738 mount=/media/usb3
+2026-03-11 17:44:15 USB attach vendor=Generic model=FlashDisk serial=SN000739 mount=/media/usb4
+2026-03-11 17:45:00 USB attach vendor=Generic model=FlashDisk serial=SN000740 mount=/media/usb0
+2026-03-11 17:45:45 USB attach vendor=Generic model=FlashDisk serial=SN000741 mount=/media/usb1
+2026-03-11 17:46:30 USB attach vendor=Generic model=FlashDisk serial=SN000742 mount=/media/usb2
+2026-03-11 17:46:30 USB detach serial=SN000742
+2026-03-11 17:47:15 USB attach vendor=Generic model=FlashDisk serial=SN000743 mount=/media/usb3
+2026-03-11 17:48:00 USB attach vendor=Generic model=FlashDisk serial=SN000744 mount=/media/usb4
+2026-03-11 17:48:45 USB attach vendor=Generic model=FlashDisk serial=SN000745 mount=/media/usb0
+2026-03-11 17:49:30 USB attach vendor=Generic model=FlashDisk serial=SN000746 mount=/media/usb1
+2026-03-11 17:50:15 USB attach vendor=Generic model=FlashDisk serial=SN000747 mount=/media/usb2
+2026-03-11 17:51:00 USB attach vendor=Generic model=FlashDisk serial=SN000748 mount=/media/usb3
+2026-03-11 17:51:45 USB attach vendor=Generic model=FlashDisk serial=SN000749 mount=/media/usb4
+2026-03-11 17:51:45 USB detach serial=SN000749
+2026-03-11 17:52:30 USB attach vendor=Generic model=FlashDisk serial=SN000750 mount=/media/usb0
+2026-03-11 17:53:15 USB attach vendor=Generic model=FlashDisk serial=SN000751 mount=/media/usb1
+2026-03-11 17:54:00 USB attach vendor=Generic model=FlashDisk serial=SN000752 mount=/media/usb2
+2026-03-11 17:54:45 USB attach vendor=Generic model=FlashDisk serial=SN000753 mount=/media/usb3
+2026-03-11 17:55:30 USB attach vendor=Generic model=FlashDisk serial=SN000754 mount=/media/usb4
+2026-03-11 17:56:15 USB attach vendor=Generic model=FlashDisk serial=SN000755 mount=/media/usb0
+2026-03-11 17:57:00 USB attach vendor=Generic model=FlashDisk serial=SN000756 mount=/media/usb1
+2026-03-11 17:57:00 USB detach serial=SN000756
+2026-03-11 17:57:45 USB attach vendor=Generic model=FlashDisk serial=SN000757 mount=/media/usb2
+2026-03-11 17:58:30 USB attach vendor=Generic model=FlashDisk serial=SN000758 mount=/media/usb3
+2026-03-11 17:59:15 USB attach vendor=Generic model=FlashDisk serial=SN000759 mount=/media/usb4
+2026-03-11 18:00:00 USB attach vendor=Generic model=FlashDisk serial=SN000760 mount=/media/usb0
+2026-03-11 18:00:45 USB attach vendor=Generic model=FlashDisk serial=SN000761 mount=/media/usb1
+2026-03-11 18:01:30 USB attach vendor=Generic model=FlashDisk serial=SN000762 mount=/media/usb2
+2026-03-11 18:02:15 USB attach vendor=Generic model=FlashDisk serial=SN000763 mount=/media/usb3
+2026-03-11 18:02:15 USB detach serial=SN000763
+2026-03-11 18:03:00 USB attach vendor=Generic model=FlashDisk serial=SN000764 mount=/media/usb4
+2026-03-11 18:03:45 USB attach vendor=Generic model=FlashDisk serial=SN000765 mount=/media/usb0
+2026-03-11 18:04:30 USB attach vendor=Generic model=FlashDisk serial=SN000766 mount=/media/usb1
+2026-03-11 18:05:15 USB attach vendor=Generic model=FlashDisk serial=SN000767 mount=/media/usb2
+2026-03-11 18:06:00 USB attach vendor=Generic model=FlashDisk serial=SN000768 mount=/media/usb3
+2026-03-11 18:06:45 USB attach vendor=Generic model=FlashDisk serial=SN000769 mount=/media/usb4
+2026-03-11 18:07:30 USB attach vendor=Generic model=FlashDisk serial=SN000770 mount=/media/usb0
+2026-03-11 18:07:30 USB detach serial=SN000770
+2026-03-11 18:08:15 USB attach vendor=Generic model=FlashDisk serial=SN000771 mount=/media/usb1
+2026-03-11 18:09:00 USB attach vendor=Generic model=FlashDisk serial=SN000772 mount=/media/usb2
+2026-03-11 18:09:45 USB attach vendor=Generic model=FlashDisk serial=SN000773 mount=/media/usb3
+2026-03-11 18:10:30 USB attach vendor=Generic model=FlashDisk serial=SN000774 mount=/media/usb4
+2026-03-11 18:11:15 USB attach vendor=Generic model=FlashDisk serial=SN000775 mount=/media/usb0
+2026-03-11 18:12:00 USB attach vendor=Generic model=FlashDisk serial=SN000776 mount=/media/usb1
+2026-03-11 18:12:45 USB attach vendor=Generic model=FlashDisk serial=SN000777 mount=/media/usb2
+2026-03-11 18:12:45 USB detach serial=SN000777
+2026-03-11 18:13:30 USB attach vendor=Generic model=FlashDisk serial=SN000778 mount=/media/usb3
+2026-03-11 18:14:15 USB attach vendor=Generic model=FlashDisk serial=SN000779 mount=/media/usb4
+2026-03-11 18:15:00 USB attach vendor=Generic model=FlashDisk serial=SN000780 mount=/media/usb0
+2026-03-11 18:15:45 USB attach vendor=Generic model=FlashDisk serial=SN000781 mount=/media/usb1
+2026-03-11 18:16:30 USB attach vendor=Generic model=FlashDisk serial=SN000782 mount=/media/usb2
+2026-03-11 18:17:15 USB attach vendor=Generic model=FlashDisk serial=SN000783 mount=/media/usb3
+2026-03-11 18:18:00 USB attach vendor=Generic model=FlashDisk serial=SN000784 mount=/media/usb4
+2026-03-11 18:18:00 USB detach serial=SN000784
+2026-03-11 18:18:45 USB attach vendor=Generic model=FlashDisk serial=SN000785 mount=/media/usb0
+2026-03-11 18:19:30 USB attach vendor=Generic model=FlashDisk serial=SN000786 mount=/media/usb1
+2026-03-11 18:20:15 USB attach vendor=Generic model=FlashDisk serial=SN000787 mount=/media/usb2
+2026-03-11 18:21:00 USB attach vendor=Generic model=FlashDisk serial=SN000788 mount=/media/usb3
+2026-03-11 18:21:45 USB attach vendor=Generic model=FlashDisk serial=SN000789 mount=/media/usb4
+2026-03-11 18:22:30 USB attach vendor=Generic model=FlashDisk serial=SN000790 mount=/media/usb0
+2026-03-11 18:23:15 USB attach vendor=Generic model=FlashDisk serial=SN000791 mount=/media/usb1
+2026-03-11 18:23:15 USB detach serial=SN000791
+2026-03-11 18:24:00 USB attach vendor=Generic model=FlashDisk serial=SN000792 mount=/media/usb2
+2026-03-11 18:24:45 USB attach vendor=Generic model=FlashDisk serial=SN000793 mount=/media/usb3
+2026-03-11 18:25:30 USB attach vendor=Generic model=FlashDisk serial=SN000794 mount=/media/usb4
+2026-03-11 18:26:15 USB attach vendor=Generic model=FlashDisk serial=SN000795 mount=/media/usb0
+2026-03-11 18:27:00 USB attach vendor=Generic model=FlashDisk serial=SN000796 mount=/media/usb1
+2026-03-11 18:27:45 USB attach vendor=Generic model=FlashDisk serial=SN000797 mount=/media/usb2
+2026-03-11 18:28:30 USB attach vendor=Generic model=FlashDisk serial=SN000798 mount=/media/usb3
+2026-03-11 18:28:30 USB detach serial=SN000798
+2026-03-11 18:29:15 USB attach vendor=Generic model=FlashDisk serial=SN000799 mount=/media/usb4
+2026-03-11 18:30:00 USB attach vendor=Generic model=FlashDisk serial=SN000800 mount=/media/usb0
+2026-03-11 18:30:45 USB attach vendor=Generic model=FlashDisk serial=SN000801 mount=/media/usb1
+2026-03-11 18:31:30 USB attach vendor=Generic model=FlashDisk serial=SN000802 mount=/media/usb2
+2026-03-11 18:32:15 USB attach vendor=Generic model=FlashDisk serial=SN000803 mount=/media/usb3
+2026-03-11 18:33:00 USB attach vendor=Generic model=FlashDisk serial=SN000804 mount=/media/usb4
+2026-03-11 18:33:45 USB attach vendor=Generic model=FlashDisk serial=SN000805 mount=/media/usb0
+2026-03-11 18:33:45 USB detach serial=SN000805
+2026-03-11 18:34:30 USB attach vendor=Generic model=FlashDisk serial=SN000806 mount=/media/usb1
+2026-03-11 18:35:15 USB attach vendor=Generic model=FlashDisk serial=SN000807 mount=/media/usb2
+2026-03-11 18:36:00 USB attach vendor=Generic model=FlashDisk serial=SN000808 mount=/media/usb3
+2026-03-11 18:36:45 USB attach vendor=Generic model=FlashDisk serial=SN000809 mount=/media/usb4
+2026-03-11 18:37:30 USB attach vendor=Generic model=FlashDisk serial=SN000810 mount=/media/usb0
+2026-03-11 18:38:15 USB attach vendor=Generic model=FlashDisk serial=SN000811 mount=/media/usb1
+2026-03-11 18:39:00 USB attach vendor=Generic model=FlashDisk serial=SN000812 mount=/media/usb2
+2026-03-11 18:39:00 USB detach serial=SN000812
+2026-03-11 18:39:45 USB attach vendor=Generic model=FlashDisk serial=SN000813 mount=/media/usb3
+2026-03-11 18:40:30 USB attach vendor=Generic model=FlashDisk serial=SN000814 mount=/media/usb4
+2026-03-11 18:41:15 USB attach vendor=Generic model=FlashDisk serial=SN000815 mount=/media/usb0
+2026-03-11 18:42:00 USB attach vendor=Generic model=FlashDisk serial=SN000816 mount=/media/usb1
+2026-03-11 18:42:45 USB attach vendor=Generic model=FlashDisk serial=SN000817 mount=/media/usb2
+2026-03-11 18:43:30 USB attach vendor=Generic model=FlashDisk serial=SN000818 mount=/media/usb3
+2026-03-11 18:44:15 USB attach vendor=Generic model=FlashDisk serial=SN000819 mount=/media/usb4
+2026-03-11 18:44:15 USB detach serial=SN000819
+2026-03-11 18:45:00 USB attach vendor=Generic model=FlashDisk serial=SN000820 mount=/media/usb0
+2026-03-11 18:45:45 USB attach vendor=Generic model=FlashDisk serial=SN000821 mount=/media/usb1
+2026-03-11 18:46:30 USB attach vendor=Generic model=FlashDisk serial=SN000822 mount=/media/usb2
+2026-03-11 18:47:15 USB attach vendor=Generic model=FlashDisk serial=SN000823 mount=/media/usb3
+2026-03-11 18:48:00 USB attach vendor=Generic model=FlashDisk serial=SN000824 mount=/media/usb4
+2026-03-11 18:48:45 USB attach vendor=Generic model=FlashDisk serial=SN000825 mount=/media/usb0
+2026-03-11 18:49:30 USB attach vendor=Generic model=FlashDisk serial=SN000826 mount=/media/usb1
+2026-03-11 18:49:30 USB detach serial=SN000826
+2026-03-11 18:50:15 USB attach vendor=Generic model=FlashDisk serial=SN000827 mount=/media/usb2
+2026-03-11 18:51:00 USB attach vendor=Generic model=FlashDisk serial=SN000828 mount=/media/usb3
+2026-03-11 18:51:45 USB attach vendor=Generic model=FlashDisk serial=SN000829 mount=/media/usb4
+2026-03-11 18:52:30 USB attach vendor=Generic model=FlashDisk serial=SN000830 mount=/media/usb0
+2026-03-11 18:53:15 USB attach vendor=Generic model=FlashDisk serial=SN000831 mount=/media/usb1
+2026-03-11 18:54:00 USB attach vendor=Generic model=FlashDisk serial=SN000832 mount=/media/usb2
+2026-03-11 18:54:45 USB attach vendor=Generic model=FlashDisk serial=SN000833 mount=/media/usb3
+2026-03-11 18:54:45 USB detach serial=SN000833
+2026-03-11 18:55:30 USB attach vendor=Generic model=FlashDisk serial=SN000834 mount=/media/usb4
+2026-03-11 18:56:15 USB attach vendor=Generic model=FlashDisk serial=SN000835 mount=/media/usb0
+2026-03-11 18:57:00 USB attach vendor=Generic model=FlashDisk serial=SN000836 mount=/media/usb1
+2026-03-11 18:57:45 USB attach vendor=Generic model=FlashDisk serial=SN000837 mount=/media/usb2
+2026-03-11 18:58:30 USB attach vendor=Generic model=FlashDisk serial=SN000838 mount=/media/usb3
+2026-03-11 18:59:15 USB attach vendor=Generic model=FlashDisk serial=SN000839 mount=/media/usb4
+2026-03-11 19:00:00 USB attach vendor=Generic model=FlashDisk serial=SN000840 mount=/media/usb0
+2026-03-11 19:00:00 USB detach serial=SN000840
+2026-03-11 19:00:45 USB attach vendor=Generic model=FlashDisk serial=SN000841 mount=/media/usb1
+2026-03-11 19:01:30 USB attach vendor=Generic model=FlashDisk serial=SN000842 mount=/media/usb2
+2026-03-11 19:02:15 USB attach vendor=Generic model=FlashDisk serial=SN000843 mount=/media/usb3
+2026-03-11 19:03:00 USB attach vendor=Generic model=FlashDisk serial=SN000844 mount=/media/usb4
+2026-03-11 19:03:45 USB attach vendor=Generic model=FlashDisk serial=SN000845 mount=/media/usb0
+2026-03-11 19:04:30 USB attach vendor=Generic model=FlashDisk serial=SN000846 mount=/media/usb1
+2026-03-11 19:05:15 USB attach vendor=Generic model=FlashDisk serial=SN000847 mount=/media/usb2
+2026-03-11 19:05:15 USB detach serial=SN000847
+2026-03-11 19:06:00 USB attach vendor=Generic model=FlashDisk serial=SN000848 mount=/media/usb3
+2026-03-11 19:06:45 USB attach vendor=Generic model=FlashDisk serial=SN000849 mount=/media/usb4
+2026-03-11 19:07:30 USB attach vendor=Generic model=FlashDisk serial=SN000850 mount=/media/usb0
+2026-03-11 19:08:15 USB attach vendor=Generic model=FlashDisk serial=SN000851 mount=/media/usb1
+2026-03-11 19:09:00 USB attach vendor=Generic model=FlashDisk serial=SN000852 mount=/media/usb2
+2026-03-11 19:09:45 USB attach vendor=Generic model=FlashDisk serial=SN000853 mount=/media/usb3
+2026-03-11 19:10:30 USB attach vendor=Generic model=FlashDisk serial=SN000854 mount=/media/usb4
+2026-03-11 19:10:30 USB detach serial=SN000854
+2026-03-11 19:11:15 USB attach vendor=Generic model=FlashDisk serial=SN000855 mount=/media/usb0
+2026-03-11 19:12:00 USB attach vendor=Generic model=FlashDisk serial=SN000856 mount=/media/usb1
+2026-03-11 19:12:45 USB attach vendor=Generic model=FlashDisk serial=SN000857 mount=/media/usb2
+2026-03-11 19:13:30 USB attach vendor=Generic model=FlashDisk serial=SN000858 mount=/media/usb3
+2026-03-11 19:14:15 USB attach vendor=Generic model=FlashDisk serial=SN000859 mount=/media/usb4
+2026-03-11 19:15:00 USB attach vendor=Generic model=FlashDisk serial=SN000860 mount=/media/usb0
+2026-03-11 19:15:45 USB attach vendor=Generic model=FlashDisk serial=SN000861 mount=/media/usb1
+2026-03-11 19:15:45 USB detach serial=SN000861
+2026-03-11 19:16:30 USB attach vendor=Generic model=FlashDisk serial=SN000862 mount=/media/usb2
+2026-03-11 19:17:15 USB attach vendor=Generic model=FlashDisk serial=SN000863 mount=/media/usb3
+2026-03-11 19:18:00 USB attach vendor=Generic model=FlashDisk serial=SN000864 mount=/media/usb4
+2026-03-11 19:18:45 USB attach vendor=Generic model=FlashDisk serial=SN000865 mount=/media/usb0
+2026-03-11 19:19:30 USB attach vendor=Generic model=FlashDisk serial=SN000866 mount=/media/usb1
+2026-03-11 19:20:15 USB attach vendor=Generic model=FlashDisk serial=SN000867 mount=/media/usb2
+2026-03-11 19:21:00 USB attach vendor=Generic model=FlashDisk serial=SN000868 mount=/media/usb3
+2026-03-11 19:21:00 USB detach serial=SN000868
+2026-03-11 19:21:45 USB attach vendor=Generic model=FlashDisk serial=SN000869 mount=/media/usb4
+2026-03-11 19:22:30 USB attach vendor=Generic model=FlashDisk serial=SN000870 mount=/media/usb0
+2026-03-11 19:23:15 USB attach vendor=Generic model=FlashDisk serial=SN000871 mount=/media/usb1
+2026-03-11 19:24:00 USB attach vendor=Generic model=FlashDisk serial=SN000872 mount=/media/usb2
+2026-03-11 19:24:45 USB attach vendor=Generic model=FlashDisk serial=SN000873 mount=/media/usb3
+2026-03-11 19:25:30 USB attach vendor=Generic model=FlashDisk serial=SN000874 mount=/media/usb4
+2026-03-11 19:26:15 USB attach vendor=Generic model=FlashDisk serial=SN000875 mount=/media/usb0
+2026-03-11 19:26:15 USB detach serial=SN000875
+2026-03-11 19:27:00 USB attach vendor=Generic model=FlashDisk serial=SN000876 mount=/media/usb1
+2026-03-11 19:27:45 USB attach vendor=Generic model=FlashDisk serial=SN000877 mount=/media/usb2
+2026-03-11 19:28:30 USB attach vendor=Generic model=FlashDisk serial=SN000878 mount=/media/usb3
+2026-03-11 19:29:15 USB attach vendor=Generic model=FlashDisk serial=SN000879 mount=/media/usb4
+2026-03-11 19:30:00 USB attach vendor=Generic model=FlashDisk serial=SN000880 mount=/media/usb0
+2026-03-11 19:30:45 USB attach vendor=Generic model=FlashDisk serial=SN000881 mount=/media/usb1
+2026-03-11 19:31:30 USB attach vendor=Generic model=FlashDisk serial=SN000882 mount=/media/usb2
+2026-03-11 19:31:30 USB detach serial=SN000882
+2026-03-11 19:32:15 USB attach vendor=Generic model=FlashDisk serial=SN000883 mount=/media/usb3
+2026-03-11 19:33:00 USB attach vendor=Generic model=FlashDisk serial=SN000884 mount=/media/usb4
+2026-03-11 19:33:45 USB attach vendor=Generic model=FlashDisk serial=SN000885 mount=/media/usb0
+2026-03-11 19:34:30 USB attach vendor=Generic model=FlashDisk serial=SN000886 mount=/media/usb1
+2026-03-11 19:35:15 USB attach vendor=Generic model=FlashDisk serial=SN000887 mount=/media/usb2
+2026-03-11 19:36:00 USB attach vendor=Generic model=FlashDisk serial=SN000888 mount=/media/usb3
+2026-03-11 19:36:45 USB attach vendor=Generic model=FlashDisk serial=SN000889 mount=/media/usb4
+2026-03-11 19:36:45 USB detach serial=SN000889
+2026-03-11 19:37:30 USB attach vendor=Generic model=FlashDisk serial=SN000890 mount=/media/usb0
+2026-03-11 19:38:15 USB attach vendor=Generic model=FlashDisk serial=SN000891 mount=/media/usb1
+2026-03-11 19:39:00 USB attach vendor=Generic model=FlashDisk serial=SN000892 mount=/media/usb2
+2026-03-11 19:39:45 USB attach vendor=Generic model=FlashDisk serial=SN000893 mount=/media/usb3
+2026-03-11 19:40:30 USB attach vendor=Generic model=FlashDisk serial=SN000894 mount=/media/usb4
+2026-03-11 19:41:15 USB attach vendor=Generic model=FlashDisk serial=SN000895 mount=/media/usb0
+2026-03-11 19:42:00 USB attach vendor=Generic model=FlashDisk serial=SN000896 mount=/media/usb1
+2026-03-11 19:42:00 USB detach serial=SN000896
+2026-03-11 19:42:45 USB attach vendor=Generic model=FlashDisk serial=SN000897 mount=/media/usb2
+2026-03-11 19:43:30 USB attach vendor=Generic model=FlashDisk serial=SN000898 mount=/media/usb3
+2026-03-11 19:44:15 USB attach vendor=Generic model=FlashDisk serial=SN000899 mount=/media/usb4
+2026-03-12 21:14:30 USB attach vendor=Kingston model=DataTraveler serial=IR7741 label=forensic mount=/mnt/usb evt=IR-7741
+2026-03-12 21:20:02 USB detach serial=IR7741 evt=IR-7741

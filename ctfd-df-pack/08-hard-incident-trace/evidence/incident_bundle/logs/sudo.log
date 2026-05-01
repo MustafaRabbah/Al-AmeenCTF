@@ -1,0 +1,1402 @@
+2026-03-11 08:10:00 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 08:10:23 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:10:46 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:11:09 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 08:11:32 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 08:11:55 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 08:12:18 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:12:41 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:13:04 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 08:13:27 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 08:13:50 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 08:14:13 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:14:36 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:14:59 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 08:15:22 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 08:15:45 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 08:16:08 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:16:31 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:16:54 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 08:17:17 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 08:17:40 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 08:18:03 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:18:26 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:18:49 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 08:19:12 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 08:19:35 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 08:19:58 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:20:21 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:20:44 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 08:21:07 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 08:21:30 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 08:21:53 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:22:16 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:22:39 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 08:23:02 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 08:23:25 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 08:23:48 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:24:11 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:24:34 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 08:24:57 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 08:25:20 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 08:25:43 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:26:06 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:26:29 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 08:26:52 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 08:27:15 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 08:27:38 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:28:01 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:28:24 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 08:28:47 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 08:29:10 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 08:29:33 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:29:56 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:30:19 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 08:30:42 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 08:31:05 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 08:31:28 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:31:51 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:32:14 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 08:32:37 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 08:33:00 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 08:33:23 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:33:46 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:34:09 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 08:34:32 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 08:34:55 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 08:35:18 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:35:41 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:36:04 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 08:36:27 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 08:36:50 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 08:37:13 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:37:36 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:37:59 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 08:38:22 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 08:38:45 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 08:39:08 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:39:31 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:39:54 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 08:40:17 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 08:40:40 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 08:41:03 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:41:26 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:41:49 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 08:42:12 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 08:42:35 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 08:42:58 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:43:21 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:43:44 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 08:44:07 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 08:44:30 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 08:44:53 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:45:16 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:45:39 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 08:46:02 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 08:46:25 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 08:46:48 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:47:11 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:47:34 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 08:47:57 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 08:48:20 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 08:48:43 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:49:06 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:49:29 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 08:49:52 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 08:50:15 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 08:50:38 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:51:01 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:51:24 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 08:51:47 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 08:52:10 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 08:52:33 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:52:56 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:53:19 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 08:53:42 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 08:54:05 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 08:54:28 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:54:51 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:55:14 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 08:55:37 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 08:56:00 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 08:56:23 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:56:46 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:57:09 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 08:57:32 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 08:57:55 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 08:58:18 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 08:58:41 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 08:59:04 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 08:59:27 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 08:59:50 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 09:00:13 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:00:36 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:00:59 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 09:01:22 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 09:01:45 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 09:02:08 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:02:31 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:02:54 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 09:03:17 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 09:03:40 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 09:04:03 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:04:26 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:04:49 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 09:05:12 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 09:05:35 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 09:05:58 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:06:21 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:06:44 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 09:07:07 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 09:07:30 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 09:07:53 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:08:16 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:08:39 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 09:09:02 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 09:09:25 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 09:09:48 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:10:11 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:10:34 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 09:10:57 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 09:11:20 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 09:11:43 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:12:06 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:12:29 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 09:12:52 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 09:13:15 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 09:13:38 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:14:01 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:14:24 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 09:14:47 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 09:15:10 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 09:15:33 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:15:56 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:16:19 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 09:16:42 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 09:17:05 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 09:17:28 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:17:51 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:18:14 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 09:18:37 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 09:19:00 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 09:19:23 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:19:46 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:20:09 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 09:20:32 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 09:20:55 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 09:21:18 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:21:41 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:22:04 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 09:22:27 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 09:22:50 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 09:23:13 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:23:36 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:23:59 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 09:24:22 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 09:24:45 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 09:25:08 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:25:31 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:25:54 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 09:26:17 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 09:26:40 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 09:27:03 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:27:26 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:27:49 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 09:28:12 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 09:28:35 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 09:28:58 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:29:21 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:29:44 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 09:30:07 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 09:30:30 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 09:30:53 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:31:16 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:31:39 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 09:32:02 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 09:32:25 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 09:32:48 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:33:11 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:33:34 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 09:33:57 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 09:34:20 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 09:34:43 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:35:06 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:35:29 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 09:35:52 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 09:36:15 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 09:36:38 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:37:01 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:37:24 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 09:37:47 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 09:38:10 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 09:38:33 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:38:56 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:39:19 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 09:39:42 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 09:40:05 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 09:40:28 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:40:51 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:41:14 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 09:41:37 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 09:42:00 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 09:42:23 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:42:46 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:43:09 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 09:43:32 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 09:43:55 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 09:44:18 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:44:41 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:45:04 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 09:45:27 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 09:45:50 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 09:46:13 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:46:36 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:46:59 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 09:47:22 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 09:47:45 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 09:48:08 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:48:31 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:48:54 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 09:49:17 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 09:49:40 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 09:50:03 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:50:26 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:50:49 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 09:51:12 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 09:51:35 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 09:51:58 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:52:21 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:52:44 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 09:53:07 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 09:53:30 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 09:53:53 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:54:16 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:54:39 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 09:55:02 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 09:55:25 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 09:55:48 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:56:11 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:56:34 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 09:56:57 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 09:57:20 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 09:57:43 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 09:58:06 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 09:58:29 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 09:58:52 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 09:59:15 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 09:59:38 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:00:01 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:00:24 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 10:00:47 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 10:01:10 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 10:01:33 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:01:56 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:02:19 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 10:02:42 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 10:03:05 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 10:03:28 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:03:51 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:04:14 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 10:04:37 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 10:05:00 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 10:05:23 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:05:46 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:06:09 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 10:06:32 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 10:06:55 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 10:07:18 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:07:41 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:08:04 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 10:08:27 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 10:08:50 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 10:09:13 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:09:36 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:09:59 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 10:10:22 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 10:10:45 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 10:11:08 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:11:31 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:11:54 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 10:12:17 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 10:12:40 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 10:13:03 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:13:26 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:13:49 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 10:14:12 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 10:14:35 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 10:14:58 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:15:21 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:15:44 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 10:16:07 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 10:16:30 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 10:16:53 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:17:16 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:17:39 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 10:18:02 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 10:18:25 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 10:18:48 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:19:11 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:19:34 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 10:19:57 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 10:20:20 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 10:20:43 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:21:06 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:21:29 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 10:21:52 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 10:22:15 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 10:22:38 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:23:01 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:23:24 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 10:23:47 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 10:24:10 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 10:24:33 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:24:56 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:25:19 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 10:25:42 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 10:26:05 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 10:26:28 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:26:51 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:27:14 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 10:27:37 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 10:28:00 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 10:28:23 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:28:46 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:29:09 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 10:29:32 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 10:29:55 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 10:30:18 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:30:41 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:31:04 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 10:31:27 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 10:31:50 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 10:32:13 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:32:36 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:32:59 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 10:33:22 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 10:33:45 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 10:34:08 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:34:31 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:34:54 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 10:35:17 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 10:35:40 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 10:36:03 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:36:26 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:36:49 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 10:37:12 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 10:37:35 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 10:37:58 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:38:21 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:38:44 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 10:39:07 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 10:39:30 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 10:39:53 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:40:16 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:40:39 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 10:41:02 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 10:41:25 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 10:41:48 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:42:11 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:42:34 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 10:42:57 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 10:43:20 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 10:43:43 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:44:06 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:44:29 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 10:44:52 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 10:45:15 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 10:45:38 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:46:01 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:46:24 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 10:46:47 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 10:47:10 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 10:47:33 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:47:56 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:48:19 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 10:48:42 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 10:49:05 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 10:49:28 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:49:51 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:50:14 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 10:50:37 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 10:51:00 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 10:51:23 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:51:46 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:52:09 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 10:52:32 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 10:52:55 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 10:53:18 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:53:41 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:54:04 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 10:54:27 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 10:54:50 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 10:55:13 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:55:36 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:55:59 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 10:56:22 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 10:56:45 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 10:57:08 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:57:31 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:57:54 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 10:58:17 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 10:58:40 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 10:59:03 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 10:59:26 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 10:59:49 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 11:00:12 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 11:00:35 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 11:00:58 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:01:21 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:01:44 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 11:02:07 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 11:02:30 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 11:02:53 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:03:16 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:03:39 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 11:04:02 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 11:04:25 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 11:04:48 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:05:11 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:05:34 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 11:05:57 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 11:06:20 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 11:06:43 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:07:06 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:07:29 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 11:07:52 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 11:08:15 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 11:08:38 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:09:01 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:09:24 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 11:09:47 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 11:10:10 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 11:10:33 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:10:56 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:11:19 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 11:11:42 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 11:12:05 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 11:12:28 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:12:51 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:13:14 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 11:13:37 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 11:14:00 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 11:14:23 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:14:46 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:15:09 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 11:15:32 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 11:15:55 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 11:16:18 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:16:41 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:17:04 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 11:17:27 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 11:17:50 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 11:18:13 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:18:36 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:18:59 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 11:19:22 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 11:19:45 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 11:20:08 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:20:31 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:20:54 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 11:21:17 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 11:21:40 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 11:22:03 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:22:26 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:22:49 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 11:23:12 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 11:23:35 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 11:23:58 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:24:21 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:24:44 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 11:25:07 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 11:25:30 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 11:25:53 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:26:16 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:26:39 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 11:27:02 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 11:27:25 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 11:27:48 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:28:11 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:28:34 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 11:28:57 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 11:29:20 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 11:29:43 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:30:06 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:30:29 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 11:30:52 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 11:31:15 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 11:31:38 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:32:01 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:32:24 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 11:32:47 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 11:33:10 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 11:33:33 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:33:56 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:34:19 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 11:34:42 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 11:35:05 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 11:35:28 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:35:51 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:36:14 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 11:36:37 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 11:37:00 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 11:37:23 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:37:46 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:38:09 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 11:38:32 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 11:38:55 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 11:39:18 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:39:41 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:40:04 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 11:40:27 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 11:40:50 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 11:41:13 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:41:36 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:41:59 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 11:42:22 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 11:42:45 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 11:43:08 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:43:31 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:43:54 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 11:44:17 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 11:44:40 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 11:45:03 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:45:26 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:45:49 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 11:46:12 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 11:46:35 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 11:46:58 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:47:21 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:47:44 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 11:48:07 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 11:48:30 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 11:48:53 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:49:16 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:49:39 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 11:50:02 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 11:50:25 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 11:50:48 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:51:11 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:51:34 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 11:51:57 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 11:52:20 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 11:52:43 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:53:06 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:53:29 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 11:53:52 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 11:54:15 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 11:54:38 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:55:01 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:55:24 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 11:55:47 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 11:56:10 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 11:56:33 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:56:56 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:57:19 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 11:57:42 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 11:58:05 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 11:58:28 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 11:58:51 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 11:59:14 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 11:59:37 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 12:00:00 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 12:00:23 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:00:46 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:01:09 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 12:01:32 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 12:01:55 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 12:02:18 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:02:41 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:03:04 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 12:03:27 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 12:03:50 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 12:04:13 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:04:36 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:04:59 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 12:05:22 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 12:05:45 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 12:06:08 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:06:31 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:06:54 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 12:07:17 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 12:07:40 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 12:08:03 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:08:26 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:08:49 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 12:09:12 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 12:09:35 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 12:09:58 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:10:21 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:10:44 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 12:11:07 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 12:11:30 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 12:11:53 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:12:16 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:12:39 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 12:13:02 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 12:13:25 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 12:13:48 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:14:11 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:14:34 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 12:14:57 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 12:15:20 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 12:15:43 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:16:06 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:16:29 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 12:16:52 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 12:17:15 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 12:17:38 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:18:01 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:18:24 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 12:18:47 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 12:19:10 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 12:19:33 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:19:56 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:20:19 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 12:20:42 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 12:21:05 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 12:21:28 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:21:51 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:22:14 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 12:22:37 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 12:23:00 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 12:23:23 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:23:46 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:24:09 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 12:24:32 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 12:24:55 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 12:25:18 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:25:41 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:26:04 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 12:26:27 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 12:26:50 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 12:27:13 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:27:36 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:27:59 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 12:28:22 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 12:28:45 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 12:29:08 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:29:31 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:29:54 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 12:30:17 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 12:30:40 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 12:31:03 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:31:26 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:31:49 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 12:32:12 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 12:32:35 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 12:32:58 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:33:21 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:33:44 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 12:34:07 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 12:34:30 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 12:34:53 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:35:16 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:35:39 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 12:36:02 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 12:36:25 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 12:36:48 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:37:11 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:37:34 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 12:37:57 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 12:38:20 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 12:38:43 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:39:06 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:39:29 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 12:39:52 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 12:40:15 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 12:40:38 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:41:01 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:41:24 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 12:41:47 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 12:42:10 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 12:42:33 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:42:56 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:43:19 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 12:43:42 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 12:44:05 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 12:44:28 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:44:51 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:45:14 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 12:45:37 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 12:46:00 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 12:46:23 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:46:46 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:47:09 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 12:47:32 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 12:47:55 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 12:48:18 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:48:41 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:49:04 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 12:49:27 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 12:49:50 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 12:50:13 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:50:36 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:50:59 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 12:51:22 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 12:51:45 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 12:52:08 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:52:31 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:52:54 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 12:53:17 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 12:53:40 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 12:54:03 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:54:26 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:54:49 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 12:55:12 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 12:55:35 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 12:55:58 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:56:21 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:56:44 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 12:57:07 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 12:57:30 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 12:57:53 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 12:58:16 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 12:58:39 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 12:59:02 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 12:59:25 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 12:59:48 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:00:11 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:00:34 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 13:00:57 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 13:01:20 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 13:01:43 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:02:06 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:02:29 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 13:02:52 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 13:03:15 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 13:03:38 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:04:01 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:04:24 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 13:04:47 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 13:05:10 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 13:05:33 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:05:56 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:06:19 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 13:06:42 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 13:07:05 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 13:07:28 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:07:51 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:08:14 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 13:08:37 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 13:09:00 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 13:09:23 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:09:46 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:10:09 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 13:10:32 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 13:10:55 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 13:11:18 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:11:41 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:12:04 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 13:12:27 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 13:12:50 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 13:13:13 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:13:36 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:13:59 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 13:14:22 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 13:14:45 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 13:15:08 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:15:31 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:15:54 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 13:16:17 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 13:16:40 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 13:17:03 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:17:26 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:17:49 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 13:18:12 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 13:18:35 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 13:18:58 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:19:21 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:19:44 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 13:20:07 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 13:20:30 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 13:20:53 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:21:16 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:21:39 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 13:22:02 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 13:22:25 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 13:22:48 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:23:11 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:23:34 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 13:23:57 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 13:24:20 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 13:24:43 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:25:06 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:25:29 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 13:25:52 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 13:26:15 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 13:26:38 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:27:01 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:27:24 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 13:27:47 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 13:28:10 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 13:28:33 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:28:56 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:29:19 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 13:29:42 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 13:30:05 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 13:30:28 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:30:51 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:31:14 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 13:31:37 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 13:32:00 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 13:32:23 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:32:46 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:33:09 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 13:33:32 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 13:33:55 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 13:34:18 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:34:41 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:35:04 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 13:35:27 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 13:35:50 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 13:36:13 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:36:36 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:36:59 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 13:37:22 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 13:37:45 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 13:38:08 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:38:31 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:38:54 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 13:39:17 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 13:39:40 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 13:40:03 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:40:26 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:40:49 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 13:41:12 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 13:41:35 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 13:41:58 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:42:21 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:42:44 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 13:43:07 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 13:43:30 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 13:43:53 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:44:16 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:44:39 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 13:45:02 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 13:45:25 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 13:45:48 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:46:11 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:46:34 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 13:46:57 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 13:47:20 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 13:47:43 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:48:06 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:48:29 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 13:48:52 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 13:49:15 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 13:49:38 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:50:01 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:50:24 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 13:50:47 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 13:51:10 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 13:51:33 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:51:56 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:52:19 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 13:52:42 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 13:53:05 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 13:53:28 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:53:51 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:54:14 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 13:54:37 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 13:55:00 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 13:55:23 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:55:46 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:56:09 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 13:56:32 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 13:56:55 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 13:57:18 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:57:41 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:58:04 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 13:58:27 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 13:58:50 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 13:59:13 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 13:59:36 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 13:59:59 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 14:00:22 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 14:00:45 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 14:01:08 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:01:31 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:01:54 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 14:02:17 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 14:02:40 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 14:03:03 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:03:26 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:03:49 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 14:04:12 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 14:04:35 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 14:04:58 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:05:21 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:05:44 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 14:06:07 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 14:06:30 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 14:06:53 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:07:16 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:07:39 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 14:08:02 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 14:08:25 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 14:08:48 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:09:11 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:09:34 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 14:09:57 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 14:10:20 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 14:10:43 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:11:06 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:11:29 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 14:11:52 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 14:12:15 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 14:12:38 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:13:01 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:13:24 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 14:13:47 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 14:14:10 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 14:14:33 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:14:56 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:15:19 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 14:15:42 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 14:16:05 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 14:16:28 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:16:51 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:17:14 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 14:17:37 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 14:18:00 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 14:18:23 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:18:46 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:19:09 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 14:19:32 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 14:19:55 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 14:20:18 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:20:41 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:21:04 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 14:21:27 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 14:21:50 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 14:22:13 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:22:36 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:22:59 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 14:23:22 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 14:23:45 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 14:24:08 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:24:31 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:24:54 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 14:25:17 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 14:25:40 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 14:26:03 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:26:26 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:26:49 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 14:27:12 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 14:27:35 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 14:27:58 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:28:21 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:28:44 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 14:29:07 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 14:29:30 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 14:29:53 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:30:16 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:30:39 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 14:31:02 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 14:31:25 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 14:31:48 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:32:11 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:32:34 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 14:32:57 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 14:33:20 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 14:33:43 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:34:06 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:34:29 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 14:34:52 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 14:35:15 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 14:35:38 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:36:01 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:36:24 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 14:36:47 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 14:37:10 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 14:37:33 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:37:56 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:38:19 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 14:38:42 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 14:39:05 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 14:39:28 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:39:51 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:40:14 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 14:40:37 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 14:41:00 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 14:41:23 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:41:46 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:42:09 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 14:42:32 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 14:42:55 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 14:43:18 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:43:41 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:44:04 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 14:44:27 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 14:44:50 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 14:45:13 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:45:36 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:45:59 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 14:46:22 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 14:46:45 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 14:47:08 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:47:31 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:47:54 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 14:48:17 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 14:48:40 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 14:49:03 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:49:26 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:49:49 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 14:50:12 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 14:50:35 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 14:50:58 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:51:21 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:51:44 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 14:52:07 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 14:52:30 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 14:52:53 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:53:16 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:53:39 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 14:54:02 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 14:54:25 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 14:54:48 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:55:11 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:55:34 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 14:55:57 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 14:56:20 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 14:56:43 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:57:06 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:57:29 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 14:57:52 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 14:58:15 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 14:58:38 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 14:59:01 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 14:59:24 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 14:59:47 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 15:00:10 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 15:00:33 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:00:56 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:01:19 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 15:01:42 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 15:02:05 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 15:02:28 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:02:51 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:03:14 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 15:03:37 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 15:04:00 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 15:04:23 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:04:46 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:05:09 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 15:05:32 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 15:05:55 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 15:06:18 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:06:41 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:07:04 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 15:07:27 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 15:07:50 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 15:08:13 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:08:36 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:08:59 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 15:09:22 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 15:09:45 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 15:10:08 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:10:31 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:10:54 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 15:11:17 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 15:11:40 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 15:12:03 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:12:26 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:12:49 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 15:13:12 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 15:13:35 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 15:13:58 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:14:21 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:14:44 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 15:15:07 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 15:15:30 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 15:15:53 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:16:16 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:16:39 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 15:17:02 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 15:17:25 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 15:17:48 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:18:11 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:18:34 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 15:18:57 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 15:19:20 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 15:19:43 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:20:06 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:20:29 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 15:20:52 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 15:21:15 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 15:21:38 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:22:01 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:22:24 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 15:22:47 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 15:23:10 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 15:23:33 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:23:56 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:24:19 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 15:24:42 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 15:25:05 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 15:25:28 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:25:51 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:26:14 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 15:26:37 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 15:27:00 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 15:27:23 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:27:46 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:28:09 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 15:28:32 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 15:28:55 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 15:29:18 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:29:41 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:30:04 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 15:30:27 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 15:30:50 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 15:31:13 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:31:36 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:31:59 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 15:32:22 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 15:32:45 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 15:33:08 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:33:31 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:33:54 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 15:34:17 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 15:34:40 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 15:35:03 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:35:26 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:35:49 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 15:36:12 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 15:36:35 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 15:36:58 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:37:21 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:37:44 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 15:38:07 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 15:38:30 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 15:38:53 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:39:16 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:39:39 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 15:40:02 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 15:40:25 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 15:40:48 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:41:11 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:41:34 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 15:41:57 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 15:42:20 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 15:42:43 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:43:06 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:43:29 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 15:43:52 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 15:44:15 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 15:44:38 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:45:01 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:45:24 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 15:45:47 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 15:46:10 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 15:46:33 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:46:56 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:47:19 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 15:47:42 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 15:48:05 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 15:48:28 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:48:51 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:49:14 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 15:49:37 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 15:50:00 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 15:50:23 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:50:46 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:51:09 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 15:51:32 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 15:51:55 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 15:52:18 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:52:41 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:53:04 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 15:53:27 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 15:53:50 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 15:54:13 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:54:36 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:54:59 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 15:55:22 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 15:55:45 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 15:56:08 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:56:31 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:56:54 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 15:57:17 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 15:57:40 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 15:58:03 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 15:58:26 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 15:58:49 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 15:59:12 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 15:59:35 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 15:59:58 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:00:21 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:00:44 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 16:01:07 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 16:01:30 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 16:01:53 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:02:16 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:02:39 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 16:03:02 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 16:03:25 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 16:03:48 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:04:11 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:04:34 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 16:04:57 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 16:05:20 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 16:05:43 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:06:06 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:06:29 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 16:06:52 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 16:07:15 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 16:07:38 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:08:01 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:08:24 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 16:08:47 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 16:09:10 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 16:09:33 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:09:56 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:10:19 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 16:10:42 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 16:11:05 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 16:11:28 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:11:51 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:12:14 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 16:12:37 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 16:13:00 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 16:13:23 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:13:46 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:14:09 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 16:14:32 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 16:14:55 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 16:15:18 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:15:41 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:16:04 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 16:16:27 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 16:16:50 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 16:17:13 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:17:36 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:17:59 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 16:18:22 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 16:18:45 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 16:19:08 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:19:31 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:19:54 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 16:20:17 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 16:20:40 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 16:21:03 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:21:26 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:21:49 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 16:22:12 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 16:22:35 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 16:22:58 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:23:21 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:23:44 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 16:24:07 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 16:24:30 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 16:24:53 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:25:16 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:25:39 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 16:26:02 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 16:26:25 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 16:26:48 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:27:11 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:27:34 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 16:27:57 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 16:28:20 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 16:28:43 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:29:06 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:29:29 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 16:29:52 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 16:30:15 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 16:30:38 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:31:01 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:31:24 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 16:31:47 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 16:32:10 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 16:32:33 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:32:56 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:33:19 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 16:33:42 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 16:34:05 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 16:34:28 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:34:51 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:35:14 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 16:35:37 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 16:36:00 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 16:36:23 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:36:46 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:37:09 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 16:37:32 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 16:37:55 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 16:38:18 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:38:41 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:39:04 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 16:39:27 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 16:39:50 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 16:40:13 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:40:36 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:40:59 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 16:41:22 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 16:41:45 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 16:42:08 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:42:31 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:42:54 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 16:43:17 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 16:43:40 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 16:44:03 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:44:26 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:44:49 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 16:45:12 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 16:45:35 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 16:45:58 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:46:21 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:46:44 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 16:47:07 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 16:47:30 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 16:47:53 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:48:16 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:48:39 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 16:49:02 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 16:49:25 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 16:49:48 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:50:11 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:50:34 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 16:50:57 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 16:51:20 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 16:51:43 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:52:06 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:52:29 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 16:52:52 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 16:53:15 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 16:53:38 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:54:01 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:54:24 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 16:54:47 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 16:55:10 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 16:55:33 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:55:56 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:56:19 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 16:56:42 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 16:57:05 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 16:57:28 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:57:51 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 16:58:14 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 16:58:37 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-11 16:59:00 sudo user=ops tty=pts/0 cmd="apt update" result=ok
+2026-03-11 16:59:23 sudo user=ops tty=pts/1 cmd="systemctl restart nginx" result=ok
+2026-03-11 16:59:46 sudo user=ops tty=pts/2 cmd="journalctl -u ssh" result=ok
+2026-03-11 17:00:09 sudo user=ops tty=pts/3 cmd="ls -la /opt" result=ok
+2026-03-11 17:00:32 sudo user=ops tty=pts/0 cmd="id" result=ok
+2026-03-11 17:00:55 sudo user=ops tty=pts/1 cmd="apt update" result=ok
+2026-03-11 17:01:18 sudo user=ops tty=pts/2 cmd="systemctl restart nginx" result=ok
+2026-03-11 17:01:41 sudo user=ops tty=pts/3 cmd="journalctl -u ssh" result=ok
+2026-03-11 17:02:04 sudo user=ops tty=pts/0 cmd="ls -la /opt" result=ok
+2026-03-11 17:02:27 sudo user=ops tty=pts/1 cmd="id" result=ok
+2026-03-11 17:02:50 sudo user=ops tty=pts/2 cmd="apt update" result=ok
+2026-03-11 17:03:13 sudo user=ops tty=pts/3 cmd="systemctl restart nginx" result=ok
+2026-03-11 17:03:36 sudo user=ops tty=pts/0 cmd="journalctl -u ssh" result=ok
+2026-03-11 17:03:59 sudo user=ops tty=pts/1 cmd="ls -la /opt" result=ok
+2026-03-11 17:04:22 sudo user=ops tty=pts/2 cmd="id" result=ok
+2026-03-11 17:04:45 sudo user=ops tty=pts/3 cmd="apt update" result=ok
+2026-03-11 17:05:08 sudo user=ops tty=pts/0 cmd="systemctl restart nginx" result=ok
+2026-03-11 17:05:31 sudo user=ops tty=pts/1 cmd="journalctl -u ssh" result=ok
+2026-03-11 17:05:54 sudo user=ops tty=pts/2 cmd="ls -la /opt" result=ok
+2026-03-11 17:06:17 sudo user=ops tty=pts/3 cmd="id" result=ok
+2026-03-12 21:14:19 sudo user=mustafa tty=pts/7 cmd="sudo -l" result=ok evt=IR-7741
+2026-03-12 21:14:24 sudo user=mustafa tty=pts/7 cmd="sudo /usr/bin/rsync -a /srv/reports /mnt/usb" result=ok evt=IR-7741
